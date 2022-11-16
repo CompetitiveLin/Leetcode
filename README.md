@@ -20,6 +20,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-11-16 13:19 | [#775 全局倒置与局部倒置](https://leetcode.cn/problems/global-and-local-inversions) | MEDIUM | 9 | 1 |
 | 2022-11-15 20:30 | [#1926 迷宫中离入口最近的出口](https://leetcode.cn/problems/nearest-exit-from-entrance-in-maze) | MEDIUM | 4 | 1 |
 | 2022-11-15 19:11 | [#1710 卡车上的最大单元数](https://leetcode.cn/problems/maximum-units-on-a-truck) | EASY | 2 | 1 |
 | 2022-11-14 16:18 | [#912 排序数组](https://leetcode.cn/problems/sort-an-array) | MEDIUM | 4 | **2** |
