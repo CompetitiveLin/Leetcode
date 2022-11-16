@@ -20,10 +20,10 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-11-16 14:58 | [#912 排序数组](https://leetcode.cn/problems/sort-an-array) | MEDIUM | 8 | **3** |
 | 2022-11-16 13:19 | [#775 全局倒置与局部倒置](https://leetcode.cn/problems/global-and-local-inversions) | MEDIUM | 9 | 1 |
 | 2022-11-15 20:30 | [#1926 迷宫中离入口最近的出口](https://leetcode.cn/problems/nearest-exit-from-entrance-in-maze) | MEDIUM | 4 | 1 |
 | 2022-11-15 19:11 | [#1710 卡车上的最大单元数](https://leetcode.cn/problems/maximum-units-on-a-truck) | EASY | 2 | 1 |
-| 2022-11-14 16:18 | [#912 排序数组](https://leetcode.cn/problems/sort-an-array) | MEDIUM | 4 | **2** |
 | 2022-11-14 00:19 | [#704 二分查找](https://leetcode.cn/problems/binary-search) | EASY | 10 | **2** |
 | 2022-11-13 17:37 | [#916 单词子集](https://leetcode.cn/problems/word-subsets) | MEDIUM | 4 | 1 |
 | 2022-11-13 15:18 | [#剑指 Offer 51 数组中的逆序对](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof) | HARD | 3 | **3** |
