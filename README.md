@@ -20,6 +20,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-11-19 16:56 | [#208 实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree) | MEDIUM | 2 | 1 |
+| 2022-11-19 10:02 | [#1732 找到最高海拔](https://leetcode.cn/problems/find-the-highest-altitude) | EASY | 1 | 1 |
 | 2022-11-18 00:48 | [#792 匹配子序列的单词数](https://leetcode.cn/problems/number-of-matching-subsequences) | MEDIUM | 2 | 1 |
 | 2022-11-16 14:58 | [#912 排序数组](https://leetcode.cn/problems/sort-an-array) | MEDIUM | 8 | **3** |
 | 2022-11-16 13:19 | [#775 全局倒置与局部倒置](https://leetcode.cn/problems/global-and-local-inversions) | MEDIUM | 9 | 1 |
