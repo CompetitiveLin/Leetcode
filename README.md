@@ -20,6 +20,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-11-21 19:47 | [#16 最接近的三数之和](https://leetcode.cn/problems/3sum-closest) | MEDIUM | 2 | 1 |
+| 2022-11-21 18:17 | [#1 两数之和](https://leetcode.cn/problems/two-sum) | EASY | 11 | **2** |
+| 2022-11-21 16:43 | [#15 三数之和](https://leetcode.cn/problems/3sum) | MEDIUM | 5 | **2** |
 | 2022-11-21 14:35 | [#692 前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words) | MEDIUM | 2 | 1 |
 | 2022-11-21 11:04 | [#799 香槟塔](https://leetcode.cn/problems/champagne-tower) | MEDIUM | 2 | 1 |
 | 2022-11-19 20:48 | [#139 单词拆分](https://leetcode.cn/problems/word-break) | MEDIUM | 3 | 1 |
@@ -244,12 +247,10 @@
 | 2020-07-29 10:05 | [#12 整数转罗马数字](https://leetcode.cn/problems/integer-to-roman) | MEDIUM | 1 | 1 |
 | 2020-07-28 18:48 | [#104 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree) | EASY | 1 | 1 |
 | 2020-07-27 10:32 | [#392 判断子序列](https://leetcode.cn/problems/is-subsequence) | EASY | 8 | 1 |
-| 2020-07-26 15:18 | [#15 三数之和](https://leetcode.cn/problems/3sum) | MEDIUM | 4 | 1 |
 | 2020-07-23 15:55 | [#2 两数相加](https://leetcode.cn/problems/add-two-numbers) | MEDIUM | 5 | 1 |
 | 2020-07-23 14:37 | [#344 反转字符串](https://leetcode.cn/problems/reverse-string) | EASY | 5 | 1 |
 | 2020-07-23 14:15 | [#64 最小路径和](https://leetcode.cn/problems/minimum-path-sum) | MEDIUM | 6 | 1 |
 | 2020-07-22 21:24 | [#11 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water) | MEDIUM | 4 | 1 |
-| 2020-07-21 20:02 | [#1 两数之和](https://leetcode.cn/problems/two-sum) | EASY | 7 | 1 |
 | 2020-07-20 14:17 | [#167 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted) | MEDIUM | 1 | 1 |
 | 2020-07-18 23:56 | [#97 交错字符串](https://leetcode.cn/problems/interleaving-string) | MEDIUM | 4 | 1 |
 | 2020-07-17 16:01 | [#35 搜索插入位置](https://leetcode.cn/problems/search-insert-position) | EASY | 7 | 1 |
