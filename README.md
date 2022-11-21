@@ -20,6 +20,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-11-21 14:35 | [#692 前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words) | MEDIUM | 2 | 1 |
+| 2022-11-21 11:04 | [#799 香槟塔](https://leetcode.cn/problems/champagne-tower) | MEDIUM | 2 | 1 |
 | 2022-11-19 20:48 | [#139 单词拆分](https://leetcode.cn/problems/word-break) | MEDIUM | 3 | 1 |
 | 2022-11-19 16:56 | [#208 实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree) | MEDIUM | 2 | 1 |
 | 2022-11-19 10:02 | [#1732 找到最高海拔](https://leetcode.cn/problems/find-the-highest-altitude) | EASY | 1 | 1 |
