@@ -20,6 +20,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-11-23 17:30 | [#1742 盒子中小球的最大数量](https://leetcode.cn/problems/maximum-number-of-balls-in-a-box) | EASY | 1 | 1 |
 | 2022-11-22 20:31 | [#878 第 N 个神奇数字](https://leetcode.cn/problems/nth-magical-number) | HARD | 5 | 1 |
 | 2022-11-21 21:10 | [#19 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list) | MEDIUM | 3 | 1 |
 | 2022-11-21 20:32 | [#18 四数之和](https://leetcode.cn/problems/4sum) | MEDIUM | 4 | 1 |
