@@ -20,6 +20,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-11-26 16:04 | [#743 网络延迟时间](https://leetcode.cn/problems/network-delay-time) | MEDIUM | 8 | **5** |
+| 2022-11-26 16:01 | [#882 细分图中的可到达节点](https://leetcode.cn/problems/reachable-nodes-in-subdivided-graph) | HARD | 2 | 1 |
+| 2022-11-26 13:52 | [#809 情感丰富的文字](https://leetcode.cn/problems/expressive-words) | MEDIUM | 2 | 1 |
 | 2022-11-24 16:25 | [#19 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list) | MEDIUM | 6 | **2** |
 | 2022-11-24 15:52 | [#1668 最大重复子字符串](https://leetcode.cn/problems/maximum-repeating-substring) | EASY | 4 | **2** |
 | 2022-11-24 15:03 | [#795 区间子数组个数](https://leetcode.cn/problems/number-of-subarrays-with-bounded-maximum) | MEDIUM | 3 | 1 |
@@ -70,7 +73,6 @@
 | 2022-10-15 10:09 | [#1441 用栈操作构建数组](https://leetcode.cn/problems/build-an-array-with-stack-operations) | MEDIUM | 4 | 1 |
 | 2022-10-14 16:07 | [#940 不同的子序列 II](https://leetcode.cn/problems/distinct-subsequences-ii) | HARD | 6 | 1 |
 | 2022-10-13 20:08 | [#769 最多能完成排序的块](https://leetcode.cn/problems/max-chunks-to-make-sorted) | MEDIUM | 2 | 1 |
-| 2022-10-12 16:31 | [#743 网络延迟时间](https://leetcode.cn/problems/network-delay-time) | MEDIUM | 7 | **4** |
 | 2022-10-12 15:40 | [#787 K 站中转内最便宜的航班](https://leetcode.cn/problems/cheapest-flights-within-k-stops) | MEDIUM | 4 | 1 |
 | 2022-10-12 10:03 | [#817 链表组件](https://leetcode.cn/problems/linked-list-components) | MEDIUM | 6 | 1 |
 | 2022-10-11 10:02 | [#1790 仅执行一次字符串交换能否使两个字符串相等](https://leetcode.cn/problems/check-if-one-string-swap-can-make-strings-equal) | EASY | 3 | 1 |
