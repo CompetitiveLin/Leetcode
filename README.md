@@ -20,6 +20,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-11-28 16:31 | [#813 最大平均值和的分组](https://leetcode.cn/problems/largest-sum-of-averages) | MEDIUM | 3 | 1 |
 | 2022-11-27 20:12 | [#1752 检查数组是否经排序和轮转得到](https://leetcode.cn/problems/check-if-array-is-sorted-and-rotated) | EASY | 2 | 1 |
 | 2022-11-26 19:10 | [#743 网络延迟时间](https://leetcode.cn/problems/network-delay-time) | MEDIUM | 9 | **5** |
 | 2022-11-26 18:56 | [#787 K 站中转内最便宜的航班](https://leetcode.cn/problems/cheapest-flights-within-k-stops) | MEDIUM | 6 | **2** |
