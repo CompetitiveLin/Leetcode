@@ -20,6 +20,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-11-30 15:35 | [#895 最大频率栈](https://leetcode.cn/problems/maximum-frequency-stack) | HARD | 2 | 1 |
+| 2022-11-29 18:06 | [#1758 生成交替二进制字符串的最少操作数](https://leetcode.cn/problems/minimum-changes-to-make-alternating-binary-string) | EASY | 1 | 1 |
 | 2022-11-28 16:31 | [#813 最大平均值和的分组](https://leetcode.cn/problems/largest-sum-of-averages) | MEDIUM | 3 | 1 |
 | 2022-11-27 20:12 | [#1752 检查数组是否经排序和轮转得到](https://leetcode.cn/problems/check-if-array-is-sorted-and-rotated) | EASY | 2 | 1 |
 | 2022-11-26 19:10 | [#743 网络延迟时间](https://leetcode.cn/problems/network-delay-time) | MEDIUM | 9 | **5** |
