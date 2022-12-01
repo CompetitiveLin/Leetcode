@@ -20,6 +20,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-12-01 10:32 | [#1779 找到最近的有相同 X 或 Y 坐标的点](https://leetcode.cn/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate) | EASY | 1 | 1 |
 | 2022-11-30 15:35 | [#895 最大频率栈](https://leetcode.cn/problems/maximum-frequency-stack) | HARD | 2 | 1 |
 | 2022-11-29 18:06 | [#1758 生成交替二进制字符串的最少操作数](https://leetcode.cn/problems/minimum-changes-to-make-alternating-binary-string) | EASY | 1 | 1 |
 | 2022-11-28 16:31 | [#813 最大平均值和的分组](https://leetcode.cn/problems/largest-sum-of-averages) | MEDIUM | 3 | 1 |
