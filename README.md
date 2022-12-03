@@ -20,6 +20,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-12-03 10:38 | [#1796 字符串中第二大的数字](https://leetcode.cn/problems/second-largest-digit-in-a-string) | EASY | 4 | 1 |
 | 2022-12-02 10:12 | [#1769 移动所有球到每个盒子所需的最小操作数](https://leetcode.cn/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | MEDIUM | 1 | 1 |
 | 2022-12-01 10:32 | [#1779 找到最近的有相同 X 或 Y 坐标的点](https://leetcode.cn/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate) | EASY | 1 | 1 |
 | 2022-11-30 15:35 | [#895 最大频率栈](https://leetcode.cn/problems/maximum-frequency-stack) | HARD | 2 | 1 |
