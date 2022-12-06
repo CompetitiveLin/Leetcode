@@ -20,6 +20,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-12-06 17:43 | [#1805 字符串中不同整数的数目](https://leetcode.cn/problems/number-of-different-integers-in-a-string) | EASY | 5 | 1 |
 | 2022-12-05 14:01 | [#8 字符串转换整数 (atoi)](https://leetcode.cn/problems/string-to-integer-atoi) | MEDIUM | 17 | 1 |
 | 2022-12-03 10:38 | [#1796 字符串中第二大的数字](https://leetcode.cn/problems/second-largest-digit-in-a-string) | EASY | 4 | 1 |
 | 2022-12-02 10:12 | [#1769 移动所有球到每个盒子所需的最小操作数](https://leetcode.cn/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | MEDIUM | 1 | 1 |
