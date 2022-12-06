@@ -20,6 +20,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-12-06 18:03 | [#852 山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array) | MEDIUM | 2 | **2** |
 | 2022-12-06 17:43 | [#1805 字符串中不同整数的数目](https://leetcode.cn/problems/number-of-different-integers-in-a-string) | EASY | 5 | 1 |
 | 2022-12-05 14:01 | [#8 字符串转换整数 (atoi)](https://leetcode.cn/problems/string-to-integer-atoi) | MEDIUM | 17 | 1 |
 | 2022-12-03 10:38 | [#1796 字符串中第二大的数字](https://leetcode.cn/problems/second-largest-digit-in-a-string) | EASY | 4 | 1 |
@@ -228,7 +229,6 @@
 | 2021-07-05 12:30 | [#1137 第 N 个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number) | EASY | 1 | 1 |
 | 2021-07-02 15:38 | [#1833 雪糕的最大数量](https://leetcode.cn/problems/maximum-ice-cream-bars) | MEDIUM | 4 | 1 |
 | 2021-06-15 10:56 | [#33 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array) | MEDIUM | 1 | 1 |
-| 2021-06-15 10:36 | [#852 山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array) | MEDIUM | 1 | 1 |
 | 2021-06-13 15:46 | [#278 第一个错误的版本](https://leetcode.cn/problems/first-bad-version) | EASY | 4 | 1 |
 | 2021-06-07 19:49 | [#494 目标和](https://leetcode.cn/problems/target-sum) | MEDIUM | 1 | 1 |
 | 2021-06-04 09:26 | [#160 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists) | EASY | 7 | 1 |
