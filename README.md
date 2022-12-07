@@ -20,6 +20,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-12-07 22:24 | [#1775 通过最少操作次数使数组的和相等](https://leetcode.cn/problems/equal-sum-arrays-with-minimum-number-of-operations) | MEDIUM | 7 | 1 |
 | 2022-12-06 18:03 | [#852 山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array) | MEDIUM | 2 | **2** |
 | 2022-12-06 17:43 | [#1805 字符串中不同整数的数目](https://leetcode.cn/problems/number-of-different-integers-in-a-string) | EASY | 5 | 1 |
 | 2022-12-05 14:01 | [#8 字符串转换整数 (atoi)](https://leetcode.cn/problems/string-to-integer-atoi) | MEDIUM | 17 | 1 |
