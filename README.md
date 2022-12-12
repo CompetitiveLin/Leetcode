@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-12-12 16:15 | [#1781 所有子字符串美丽值之和](https://leetcode.cn/problems/sum-of-beauty-of-all-substrings) | MEDIUM | 1 | 1 |
 | 2022-12-11 16:13 | [#1827 最少操作使数组递增](https://leetcode.cn/problems/minimum-operations-to-make-the-array-increasing) | EASY | 1 | 1 |
 | 2022-12-10 18:47 | [#1691 堆叠长方体的最大高度](https://leetcode.cn/problems/maximum-height-by-stacking-cuboids) | HARD | 12 | 1 |
 | 2022-12-08 09:57 | [#1812 判断国际象棋棋盘中一个格子的颜色](https://leetcode.cn/problems/determine-color-of-a-chessboard-square) | EASY | 2 | 1 |
