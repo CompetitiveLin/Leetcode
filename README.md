@@ -26,6 +26,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-12-13 12:34 | [#24 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs) | MEDIUM | 4 | 1 |
+| 2022-12-13 11:30 | [#1832 判断句子是否为全字母句](https://leetcode.cn/problems/check-if-the-sentence-is-pangram) | EASY | 1 | 1 |
 | 2022-12-12 16:15 | [#1781 所有子字符串美丽值之和](https://leetcode.cn/problems/sum-of-beauty-of-all-substrings) | MEDIUM | 1 | 1 |
 | 2022-12-11 16:13 | [#1827 最少操作使数组递增](https://leetcode.cn/problems/minimum-operations-to-make-the-array-increasing) | EASY | 1 | 1 |
 | 2022-12-10 18:47 | [#1691 堆叠长方体的最大高度](https://leetcode.cn/problems/maximum-height-by-stacking-cuboids) | HARD | 12 | 1 |
