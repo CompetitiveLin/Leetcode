@@ -26,6 +26,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-12-15 13:46 | [#912 排序数组](https://leetcode.cn/problems/sort-an-array) | MEDIUM | 10 | **4** |
+| 2022-12-15 11:18 | [#1945 字符串转化后的各位数字之和](https://leetcode.cn/problems/sum-of-digits-of-string-after-convert) | EASY | 3 | 1 |
 | 2022-12-13 12:34 | [#24 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs) | MEDIUM | 4 | 1 |
 | 2022-12-13 11:30 | [#1832 判断句子是否为全字母句](https://leetcode.cn/problems/check-if-the-sentence-is-pangram) | EASY | 1 | 1 |
 | 2022-12-12 16:15 | [#1781 所有子字符串美丽值之和](https://leetcode.cn/problems/sum-of-beauty-of-all-substrings) | MEDIUM | 1 | 1 |
@@ -62,7 +64,6 @@
 | 2022-11-19 16:56 | [#208 实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree) | MEDIUM | 2 | 1 |
 | 2022-11-19 10:02 | [#1732 找到最高海拔](https://leetcode.cn/problems/find-the-highest-altitude) | EASY | 1 | 1 |
 | 2022-11-18 00:48 | [#792 匹配子序列的单词数](https://leetcode.cn/problems/number-of-matching-subsequences) | MEDIUM | 2 | 1 |
-| 2022-11-16 14:58 | [#912 排序数组](https://leetcode.cn/problems/sort-an-array) | MEDIUM | 8 | **3** |
 | 2022-11-16 13:19 | [#775 全局倒置与局部倒置](https://leetcode.cn/problems/global-and-local-inversions) | MEDIUM | 9 | 1 |
 | 2022-11-15 20:30 | [#1926 迷宫中离入口最近的出口](https://leetcode.cn/problems/nearest-exit-from-entrance-in-maze) | MEDIUM | 4 | 1 |
 | 2022-11-15 19:11 | [#1710 卡车上的最大单元数](https://leetcode.cn/problems/maximum-units-on-a-truck) | EASY | 2 | 1 |
