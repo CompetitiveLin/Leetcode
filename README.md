@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2022-12-16 12:06 | [#1785 构成特定和需要添加的最少元素](https://leetcode.cn/problems/minimum-elements-to-add-to-form-a-given-sum) | MEDIUM | 2 | 1 |
 | 2022-12-15 20:52 | [#21 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists) | EASY | 1 | 1 |
 | 2022-12-15 20:42 | [#剑指 Offer 25 合并两个排序的链表](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof) | EASY | 1 | 1 |
 | 2022-12-15 20:23 | [#23 合并K个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists) | HARD | 4 | 1 |
