@@ -111,12 +111,12 @@ def generate_markdown_text(response_data, session):
     # 相关介绍
     response_data = response_data['data']['userProfileQuestions']['questions']
     markdown_text =  "## 相关介绍\n\n"
-    markdown_text += "这是一个 LeetCode 题目自动统计及分析程序，可自动统计所有提交通过的题目，并以 Markdown 的形式展示。\n\n"
+    markdown_text += "这是一个 [LeetCode](https://leetcode.cn/problemset/all/) 题目自动统计及分析程序，可自动统计所有提交通过的题目，并以 Markdown 的形式展示。\n\n"
     markdown_text += "根据个人需求，目前只考虑获取**提交次数**和**重刷次数**这两个指标，以便更好地进行刷题。\n\n"
     markdown_text += "采用 GitHub Actions 进行自动化部署，无需本地服务器资源。\n\n"
     markdown_text += "## 使用教程\n\n"
     markdown_text += "1. 由模板项目[生成](https://github.com/shengqiangzhang/leetcode-revise/generate)自己的项目\n\n"
-    markdown_text += "2. 点击生成项目下的 Settings -> Secrets -> Actions -> New repository secret，分别添加以下secret：\n"
+    markdown_text += "2. 点击生成项目下的 Settings -> Secrets -> Actions -> New repository secret，分别添加以下 Secrets：\n"
     markdown_text += "    - Name：LEETCODE_EMAIL\n"
     markdown_text += "        - Secret：你的LeetCode账号\n"
     markdown_text += "    - Name：LEETCODE_PASSWORD\n"
