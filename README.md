@@ -11,9 +11,9 @@
 1. 由模板项目[生成](https://github.com/shengqiangzhang/leetcode-revise/generate)自己的项目
 
 2. 点击生成项目下的 Settings -> Secrets -> Actions -> New repository secret，分别添加以下 Secrets：
-    - Name：LEETCODE_EMAIL
+    - Name：`LEETCODE_EMAIL`
         - Secret：你的LeetCode账号
-    - Name：LEETCODE_PASSWORD
+    - Name：`LEETCODE_PASSWORD`
         - Secret：你的LeetCode密码
 
 3. 回到项目首页并进入 Actions 部分，在左侧点击`Github LeetCode Bot`，再点击蓝色提示框中的 `Run workflow`，最后点击绿色的 `Run workflow` 按钮即可
