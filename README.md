@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-01-03 15:54 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM | 4 | 1 |
 | 2023-01-01 19:08 | [#215 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array) | MEDIUM | 2 | 1 |
 | 2022-12-31 10:58 | [#2037 使每位学生都有座位的最少移动次数](https://leetcode.cn/problems/minimum-number-of-moves-to-seat-everyone) | EASY | 1 | 1 |
 | 2022-12-19 14:07 | [#1971 寻找图中是否存在路径](https://leetcode.cn/problems/find-if-path-exists-in-graph) | EASY | 4 | 1 |
