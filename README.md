@@ -1,6 +1,6 @@
 ## 相关介绍
 
-这是一个 LeetCode 题目自动统计及分析程序，可自动统计所有提交通过的题目，并以 Markdown 的形式展示。
+这是一个 [LeetCode](https://leetcode.cn/problemset/all/) 题目自动统计及分析程序，可自动统计所有提交通过的题目，并以 Markdown 的形式展示。
 
 根据个人需求，目前只考虑获取**提交次数**和**重刷次数**这两个指标，以便更好地进行刷题。
 
@@ -10,7 +10,7 @@
 
 1. 由模板项目[生成](https://github.com/shengqiangzhang/leetcode-revise/generate)自己的项目
 
-2. 点击生成项目下的 Settings -> Secrets -> Actions -> New repository secret，分别添加以下secret：
+2. 点击生成项目下的 Settings -> Secrets -> Actions -> New repository secret，分别添加以下 Secrets：
     - Name：LEETCODE_EMAIL
         - Secret：你的LeetCode账号
     - Name：LEETCODE_PASSWORD
