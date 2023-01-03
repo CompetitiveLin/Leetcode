@@ -8,9 +8,9 @@
 
 ## 使用教程
 
-1. Fork本项目
+1. 由模板项目[生成](https://github.com/shengqiangzhang/leetcode-revise/generate)自己的项目
 
-2. 点击Fork后的项目下的Settings->Secrets->Actions->New repository secret，分别添加以下secret：
+2. 点击生成项目下的 Settings -> Secrets -> Actions -> New repository secret，分别添加以下secret：
     - Name：LEETCODE_EMAIL
         - Secret：你的LeetCode账号
     - Name：LEETCODE_PASSWORD
