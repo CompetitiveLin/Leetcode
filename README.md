@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-01-07 22:33 | [#1658 将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero) | MEDIUM | 1 | 1 |
 | 2023-01-05 20:00 | [#143 重排链表](https://leetcode.cn/problems/reorder-list) | MEDIUM | 2 | 1 |
 | 2023-01-05 19:37 | [#206 反转链表](https://leetcode.cn/problems/reverse-linked-list) | EASY | 2 | 1 |
 | 2023-01-03 15:54 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM | 4 | 1 |
