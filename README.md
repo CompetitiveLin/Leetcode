@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-01-13 14:19 | [#36 有效的数独](https://leetcode.cn/problems/valid-sudoku) | MEDIUM | 1 | 1 |
 | 2023-01-09 16:15 | [#1806 还原排列的最少操作步数](https://leetcode.cn/problems/minimum-number-of-operations-to-reinitialize-a-permutation) | MEDIUM | 1 | 1 |
 | 2023-01-07 22:33 | [#1658 将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero) | MEDIUM | 1 | 1 |
 | 2023-01-05 20:00 | [#143 重排链表](https://leetcode.cn/problems/reorder-list) | MEDIUM | 2 | 1 |
