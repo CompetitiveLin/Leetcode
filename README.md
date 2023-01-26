@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-01-26 18:25 | [#1663 具有给定数值的最小字符串](https://leetcode.cn/problems/smallest-string-with-a-given-numeric-value) | MEDIUM | 2 | 1 |
 | 2023-01-23 22:32 | [#199 二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view) | MEDIUM | 2 | 1 |
 | 2023-01-16 22:39 | [#1813 句子相似性 III](https://leetcode.cn/problems/sentence-similarity-iii) | MEDIUM | 3 | 1 |
 | 2023-01-13 20:15 | [#38 外观数列](https://leetcode.cn/problems/count-and-say) | MEDIUM | 1 | 1 |
