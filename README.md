@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-01-30 19:28 | [#1669 合并两个链表](https://leetcode.cn/problems/merge-in-between-linked-lists) | MEDIUM | 2 | 1 |
 | 2023-01-29 16:50 | [#264 丑数 II](https://leetcode.cn/problems/ugly-number-ii) | MEDIUM | 2 | 1 |
 | 2023-01-28 14:37 | [#1664 生成平衡数组的方案数](https://leetcode.cn/problems/ways-to-make-a-fair-array) | MEDIUM | 2 | 1 |
 | 2023-01-27 20:38 | [#503 下一个更大元素 II](https://leetcode.cn/problems/next-greater-element-ii) | MEDIUM | 3 | 1 |
