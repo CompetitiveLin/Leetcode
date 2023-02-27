@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-02-27 17:01 | [#1144 递减元素使数组呈锯齿状](https://leetcode.cn/problems/decrease-elements-to-make-array-zigzag) | MEDIUM | 4 | 1 |
 | 2023-02-20 10:19 | [#1792 最大平均通过率](https://leetcode.cn/problems/maximum-average-pass-ratio) | MEDIUM | 2 | 1 |
 | 2023-02-12 09:58 | [#1138 字母板上的路径](https://leetcode.cn/problems/alphabet-board-path) | MEDIUM | 4 | 1 |
 | 2023-02-09 17:45 | [#1797 设计一个验证系统](https://leetcode.cn/problems/design-authentication-manager) | MEDIUM | 2 | 1 |
