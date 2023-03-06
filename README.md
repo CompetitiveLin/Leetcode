@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-03-06 21:52 | [#1653 使字符串平衡的最少删除次数](https://leetcode.cn/problems/minimum-deletions-to-make-string-balanced) | MEDIUM | 4 | 1 |
 | 2023-03-03 19:26 | [#1487 保证文件名唯一](https://leetcode.cn/problems/making-file-names-unique) | MEDIUM | 5 | 1 |
 | 2023-02-28 21:44 | [#1801 积压订单中的订单总数](https://leetcode.cn/problems/number-of-orders-in-the-backlog) | MEDIUM | 2 | 1 |
 | 2023-02-27 17:01 | [#1144 递减元素使数组呈锯齿状](https://leetcode.cn/problems/decrease-elements-to-make-array-zigzag) | MEDIUM | 4 | 1 |
