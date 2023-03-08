@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-03-08 21:52 | [#剑指 Offer 47 礼物的最大价值](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof) | MEDIUM | 1 | 1 |
 | 2023-03-06 21:52 | [#1653 使字符串平衡的最少删除次数](https://leetcode.cn/problems/minimum-deletions-to-make-string-balanced) | MEDIUM | 4 | 1 |
 | 2023-03-03 19:26 | [#1487 保证文件名唯一](https://leetcode.cn/problems/making-file-names-unique) | MEDIUM | 5 | 1 |
 | 2023-02-28 21:44 | [#1801 积压订单中的订单总数](https://leetcode.cn/problems/number-of-orders-in-the-backlog) | MEDIUM | 2 | 1 |
