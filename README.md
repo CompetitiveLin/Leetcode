@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-03-17 21:21 | [#89 格雷编码](https://leetcode.cn/problems/gray-code) | MEDIUM | 1 | 1 |
 | 2023-03-15 11:09 | [#1615 最大网络秩](https://leetcode.cn/problems/maximal-network-rank) | MEDIUM | 1 | 1 |
 | 2023-03-14 19:12 | [#1605 给定行和列的和求可行矩阵](https://leetcode.cn/problems/find-valid-matrix-given-row-and-column-sums) | MEDIUM | 1 | 1 |
 | 2023-03-13 15:38 | [#289 生命游戏](https://leetcode.cn/problems/game-of-life) | MEDIUM | 2 | 1 |
