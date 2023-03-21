@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-03-21 19:16 | [#62 不同路径](https://leetcode.cn/problems/unique-paths) | MEDIUM | 2 | 1 |
 | 2023-03-18 11:47 | [#1616 分割两个字符串得到回文串](https://leetcode.cn/problems/split-two-strings-to-make-palindrome) | MEDIUM | 5 | 1 |
 | 2023-03-17 21:21 | [#89 格雷编码](https://leetcode.cn/problems/gray-code) | MEDIUM | 1 | 1 |
 | 2023-03-15 11:09 | [#1615 最大网络秩](https://leetcode.cn/problems/maximal-network-rank) | MEDIUM | 1 | 1 |
