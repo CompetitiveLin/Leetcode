@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-03-22 20:57 | [#300 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence) | MEDIUM | 3 | 1 |
 | 2023-03-22 19:50 | [#1626 无矛盾的最佳球队](https://leetcode.cn/problems/best-team-with-no-conflicts) | MEDIUM | 5 | 1 |
 | 2023-03-21 19:16 | [#62 不同路径](https://leetcode.cn/problems/unique-paths) | MEDIUM | 2 | 1 |
 | 2023-03-18 11:47 | [#1616 分割两个字符串得到回文串](https://leetcode.cn/problems/split-two-strings-to-make-palindrome) | MEDIUM | 5 | 1 |
