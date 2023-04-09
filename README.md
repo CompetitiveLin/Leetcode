@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-04-09 11:22 | [#739 每日温度](https://leetcode.cn/problems/daily-temperatures) | MEDIUM | 2 | 1 |
 | 2023-04-03 22:13 | [#1053 交换一次的先前排列](https://leetcode.cn/problems/previous-permutation-with-one-swap) | MEDIUM | 4 | 1 |
 | 2023-03-30 20:02 | [#1637 两点之间不包含任何点的最宽垂直区域](https://leetcode.cn/problems/widest-vertical-area-between-two-points-containing-no-points) | MEDIUM | 2 | 1 |
 | 2023-03-29 23:55 | [#1641 统计字典序元音字符串的数目](https://leetcode.cn/problems/count-sorted-vowel-strings) | MEDIUM | 1 | 1 |
