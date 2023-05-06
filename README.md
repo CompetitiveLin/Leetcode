@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-05-06 22:58 | [#1419 数青蛙](https://leetcode.cn/problems/minimum-number-of-frogs-croaking) | MEDIUM | 10 | 1 |
 | 2023-05-05 13:57 | [#283 移动零](https://leetcode.cn/problems/move-zeroes) | EASY | 1 | 1 |
 | 2023-05-04 16:25 | [#128 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence) | MEDIUM | 4 | 1 |
 | 2023-05-03 22:12 | [#1003 检查替换后的词是否有效](https://leetcode.cn/problems/check-if-word-is-valid-after-substitutions) | MEDIUM | 1 | 1 |
