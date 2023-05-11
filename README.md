@@ -28,6 +28,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-05-11 17:54 | [#560 和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k) | MEDIUM | 1 | 1 |
+| 2023-05-11 10:54 | [#1016 子串能表示从 1 到 N 数字的二进制串](https://leetcode.cn/problems/binary-string-with-substrings-representing-1-to-n) | MEDIUM | 2 | 1 |
 | 2023-05-07 12:24 | [#1010 总持续时间可被 60 整除的歌曲](https://leetcode.cn/problems/pairs-of-songs-with-total-durations-divisible-by-60) | MEDIUM | 3 | 1 |
 | 2023-05-06 22:58 | [#1419 数青蛙](https://leetcode.cn/problems/minimum-number-of-frogs-croaking) | MEDIUM | 10 | 1 |
 | 2023-05-05 13:57 | [#283 移动零](https://leetcode.cn/problems/move-zeroes) | EASY | 1 | 1 |
