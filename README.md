@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-05-31 21:16 | [#2300 咒语和药水的成功对数](https://leetcode.cn/problems/successful-pairs-of-spells-and-potions) | MEDIUM | 3 | 1 |
 | 2023-05-29 22:29 | [#2352 相等行列对](https://leetcode.cn/problems/equal-row-and-column-pairs) | MEDIUM | 2 | 1 |
 | 2023-05-25 16:03 | [#452 用最少数量的箭引爆气球](https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons) | MEDIUM | 2 | 1 |
 | 2023-05-21 14:18 | [#435 无重叠区间](https://leetcode.cn/problems/non-overlapping-intervals) | MEDIUM | 3 | 1 |
