@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-06-07 20:08 | [#2611 老鼠和奶酪](https://leetcode.cn/problems/mice-and-cheese) | MEDIUM | 5 | 1 |
 | 2023-06-02 13:15 | [#2559 统计范围内的元音字符串数](https://leetcode.cn/problems/count-vowel-strings-in-ranges) | MEDIUM | 3 | 1 |
 | 2023-06-01 16:33 | [#2517 礼盒的最大甜蜜度](https://leetcode.cn/problems/maximum-tastiness-of-candy-basket) | MEDIUM | 3 | 1 |
 | 2023-05-31 21:16 | [#2300 咒语和药水的成功对数](https://leetcode.cn/problems/successful-pairs-of-spells-and-potions) | MEDIUM | 3 | 1 |
