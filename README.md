@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-06-11 19:37 | [#1171 从链表中删去总和值为零的连续节点](https://leetcode.cn/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | MEDIUM | 5 | 1 |
 | 2023-06-08 21:01 | [#2390 从字符串中移除星号](https://leetcode.cn/problems/removing-stars-from-a-string) | MEDIUM | 1 | 1 |
 | 2023-06-07 20:08 | [#2611 老鼠和奶酪](https://leetcode.cn/problems/mice-and-cheese) | MEDIUM | 5 | 1 |
 | 2023-06-02 13:15 | [#2559 统计范围内的元音字符串数](https://leetcode.cn/problems/count-vowel-strings-in-ranges) | MEDIUM | 3 | 1 |
