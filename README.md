@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-06-20 22:15 | [#912 排序数组](https://leetcode.cn/problems/sort-an-array) | MEDIUM | 11 | **5** |
 | 2023-06-11 19:37 | [#1171 从链表中删去总和值为零的连续节点](https://leetcode.cn/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | MEDIUM | 5 | 1 |
 | 2023-06-08 21:01 | [#2390 从字符串中移除星号](https://leetcode.cn/problems/removing-stars-from-a-string) | MEDIUM | 1 | 1 |
 | 2023-06-07 20:08 | [#2611 老鼠和奶酪](https://leetcode.cn/problems/mice-and-cheese) | MEDIUM | 5 | 1 |
@@ -96,7 +97,6 @@
 | 2022-12-15 20:52 | [#21 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists) | EASY | 1 | 1 |
 | 2022-12-15 20:42 | [#剑指 Offer 25 合并两个排序的链表](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof) | EASY | 1 | 1 |
 | 2022-12-15 20:23 | [#23 合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists) | HARD | 4 | 1 |
-| 2022-12-15 13:46 | [#912 排序数组](https://leetcode.cn/problems/sort-an-array) | MEDIUM | 10 | **4** |
 | 2022-12-15 11:18 | [#1945 字符串转化后的各位数字之和](https://leetcode.cn/problems/sum-of-digits-of-string-after-convert) | EASY | 3 | 1 |
 | 2022-12-13 12:34 | [#24 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs) | MEDIUM | 4 | 1 |
 | 2022-12-13 11:30 | [#1832 判断句子是否为全字母句](https://leetcode.cn/problems/check-if-the-sentence-is-pangram) | EASY | 1 | 1 |
