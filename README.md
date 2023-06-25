@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-06-25 13:35 | [#162 寻找峰值](https://leetcode.cn/problems/find-peak-element) | MEDIUM | 2 | 1 |
 | 2023-06-23 13:38 | [#2095 删除链表的中间节点](https://leetcode.cn/problems/delete-the-middle-node-of-a-linked-list) | MEDIUM | 3 | 1 |
 | 2023-06-20 22:15 | [#912 排序数组](https://leetcode.cn/problems/sort-an-array) | MEDIUM | 11 | **5** |
 | 2023-06-11 19:37 | [#1171 从链表中删去总和值为零的连续节点](https://leetcode.cn/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | MEDIUM | 5 | 1 |
