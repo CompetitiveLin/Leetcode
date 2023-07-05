@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-07-06 00:26 | [#328 奇偶链表](https://leetcode.cn/problems/odd-even-linked-list) | MEDIUM | 1 | 1 |
 | 2023-07-03 23:34 | [#445 两数相加 II](https://leetcode.cn/problems/add-two-numbers-ii) | MEDIUM | 3 | 1 |
 | 2023-06-27 21:34 | [#912 排序数组](https://leetcode.cn/problems/sort-an-array) | MEDIUM | 13 | **6** |
 | 2023-06-25 13:35 | [#162 寻找峰值](https://leetcode.cn/problems/find-peak-element) | MEDIUM | 2 | 1 |
