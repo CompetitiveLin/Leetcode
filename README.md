@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-07-16 12:33 | [#1679 K 和数对的最大数目](https://leetcode.cn/problems/max-number-of-k-sum-pairs) | MEDIUM | 1 | 1 |
 | 2023-07-13 23:30 | [#931 下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum) | MEDIUM | 1 | 1 |
 | 2023-07-12 19:42 | [#450 删除二叉搜索树中的节点](https://leetcode.cn/problems/delete-node-in-a-bst) | MEDIUM | 5 | 1 |
 | 2023-07-10 22:29 | [#394 字符串解码](https://leetcode.cn/problems/decode-string) | MEDIUM | 3 | 1 |
