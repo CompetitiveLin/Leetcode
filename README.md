@@ -202,7 +202,7 @@
 | 2022-08-10 18:34 | [#640 求解方程](https://leetcode.cn/problems/solve-the-equation) | MEDIUM | 4 | 1 |
 | 2022-08-01 12:42 | [#1374 生成每种字符都是奇数个的字符串](https://leetcode.cn/problems/generate-a-string-with-characters-that-have-odd-counts) | EASY | 1 | 1 |
 | 2022-07-25 14:34 | [#919 完全二叉树插入器](https://leetcode.cn/problems/complete-binary-tree-inserter) | MEDIUM | 1 | 1 |
-| 2022-07-23 14:13 | [#剑指 Offer II 115 重建序列](https://leetcode.cn/problems/ur2n8P) | MEDIUM | 7 | 1 |
+| 2022-07-23 14:13 | [#LCR 115 序列重建](https://leetcode.cn/problems/ur2n8P) | MEDIUM | 7 | 1 |
 | 2022-07-17 11:09 | [#565 数组嵌套](https://leetcode.cn/problems/array-nesting) | MEDIUM | 1 | 1 |
 | 2022-07-14 13:12 | [#745 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search) | HARD | 2 | 1 |
 | 2022-07-13 19:22 | [#735 行星碰撞](https://leetcode.cn/problems/asteroid-collision) | MEDIUM | 11 | 1 |
@@ -220,7 +220,7 @@
 | 2022-06-21 19:28 | [#1108 IP 地址无效化](https://leetcode.cn/problems/defanging-an-ip-address) | EASY | 2 | 1 |
 | 2022-06-19 23:06 | [#98 验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree) | MEDIUM | 13 | 1 |
 | 2022-06-19 15:20 | [#508 出现次数最多的子树元素和](https://leetcode.cn/problems/most-frequent-subtree-sum) | MEDIUM | 2 | 1 |
-| 2022-06-18 14:19 | [#剑指 Offer II 029 排序的循环链表](https://leetcode.cn/problems/4ueAj6) | MEDIUM | 15 | 1 |
+| 2022-06-18 14:19 | [#LCR 029 循环有序列表的插入](https://leetcode.cn/problems/4ueAj6) | MEDIUM | 15 | 1 |
 | 2022-06-17 15:48 | [#1089 复写零](https://leetcode.cn/problems/duplicate-zeros) | EASY | 2 | 1 |
 | 2022-06-13 23:05 | [#1051 高度检查器](https://leetcode.cn/problems/height-checker) | EASY | 2 | 1 |
 | 2022-06-12 23:05 | [#890 查找和替换模式](https://leetcode.cn/problems/find-and-replace-pattern) | MEDIUM | 1 | 1 |
