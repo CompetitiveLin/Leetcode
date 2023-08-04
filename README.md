@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-08-04 14:42 | [#46 全排列](https://leetcode.cn/problems/permutations) | MEDIUM | 4 | **2** |
 | 2023-07-16 12:33 | [#1679 K 和数对的最大数目](https://leetcode.cn/problems/max-number-of-k-sum-pairs) | MEDIUM | 1 | 1 |
 | 2023-07-13 23:30 | [#931 下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum) | MEDIUM | 1 | 1 |
 | 2023-07-12 19:42 | [#450 删除二叉搜索树中的节点](https://leetcode.cn/problems/delete-node-in-a-bst) | MEDIUM | 5 | 1 |
@@ -333,7 +334,6 @@
 | 2021-05-05 10:49 | [#剑指 Offer 11 旋转数组的最小数字](https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof) | EASY | 2 | **2** |
 | 2021-04-13 18:39 | [#783 二叉搜索树节点最小距离](https://leetcode.cn/problems/minimum-distance-between-bst-nodes) | EASY | 1 | 1 |
 | 2021-03-30 15:03 | [#47 全排列 II](https://leetcode.cn/problems/permutations-ii) | MEDIUM | 1 | 1 |
-| 2021-03-30 14:38 | [#46 全排列](https://leetcode.cn/problems/permutations) | MEDIUM | 3 | 1 |
 | 2021-03-30 13:37 | [#74 搜索二维矩阵](https://leetcode.cn/problems/search-a-2d-matrix) | MEDIUM | 1 | 1 |
 | 2021-03-27 22:24 | [#61 旋转链表](https://leetcode.cn/problems/rotate-list) | MEDIUM | 3 | 1 |
 | 2021-03-22 18:57 | [#191 位1的个数](https://leetcode.cn/problems/number-of-1-bits) | EASY | 1 | 1 |
