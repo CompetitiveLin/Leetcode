@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-08-10 17:44 | [#784 字母大小写全排列](https://leetcode.cn/problems/letter-case-permutation) | MEDIUM | 6 | **3** |
 | 2023-08-09 20:46 | [#47 全排列 II](https://leetcode.cn/problems/permutations-ii) | MEDIUM | 2 | **2** |
 | 2023-08-04 14:42 | [#46 全排列](https://leetcode.cn/problems/permutations) | MEDIUM | 4 | **2** |
 | 2023-07-16 12:33 | [#1679 K 和数对的最大数目](https://leetcode.cn/problems/max-number-of-k-sum-pairs) | MEDIUM | 1 | 1 |
@@ -163,7 +164,6 @@
 | 2022-11-02 20:43 | [#1620 网络信号最好的坐标](https://leetcode.cn/problems/coordinate-with-maximum-network-quality) | MEDIUM | 1 | 1 |
 | 2022-11-01 14:49 | [#1662 检查两个字符串数组是否相等](https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent) | EASY | 1 | 1 |
 | 2022-10-31 10:25 | [#481 神奇字符串](https://leetcode.cn/problems/magical-string) | MEDIUM | 4 | 1 |
-| 2022-10-30 20:27 | [#784 字母大小写全排列](https://leetcode.cn/problems/letter-case-permutation) | MEDIUM | 4 | **2** |
 | 2022-10-29 23:17 | [#1773 统计匹配检索规则的物品数量](https://leetcode.cn/problems/count-items-matching-a-rule) | EASY | 2 | 1 |
 | 2022-10-27 10:20 | [#1822 数组元素积的符号](https://leetcode.cn/problems/sign-of-the-product-of-an-array) | EASY | 2 | 1 |
 | 2022-10-24 15:37 | [#1235 规划兼职工作](https://leetcode.cn/problems/maximum-profit-in-job-scheduling) | HARD | 7 | **2** |
