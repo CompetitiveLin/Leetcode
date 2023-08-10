@@ -28,7 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2023-08-10 17:44 | [#784 字母大小写全排列](https://leetcode.cn/problems/letter-case-permutation) | MEDIUM | 6 | **3** |
+| 2023-08-10 20:25 | [#784 字母大小写全排列](https://leetcode.cn/problems/letter-case-permutation) | MEDIUM | 7 | **3** |
 | 2023-08-09 20:46 | [#47 全排列 II](https://leetcode.cn/problems/permutations-ii) | MEDIUM | 2 | **2** |
 | 2023-08-04 14:42 | [#46 全排列](https://leetcode.cn/problems/permutations) | MEDIUM | 4 | **2** |
 | 2023-07-16 12:33 | [#1679 K 和数对的最大数目](https://leetcode.cn/problems/max-number-of-k-sum-pairs) | MEDIUM | 1 | 1 |
