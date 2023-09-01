@@ -4,9 +4,9 @@
 """
 @project: PyCharm
 @file: leetcode.py
-@author: Shengqiang Zhang
-@time: 2020/8/13 22:24
-@mail: sqzhang77@gmail.com
+@author: CompetitiveLin
+@time: 2023/09/01 10:58
+@mail: zee_lin@foxmail.com
 """
 
 import sys
@@ -19,29 +19,19 @@ import time
 
 
 # 登录
-def login(EMAIL, PASSWORD):
+def login(LEETCODE_SESSION):
     session = requests.Session()  # 建立会话
     session.mount('http://', HTTPAdapter(max_retries=6))  # 超时重试次数
     session.mount('https://', HTTPAdapter(max_retries=6))  # 超时重试次数
     session.encoding = "utf-8"  # 编码格式
 
-    # 使用账号密码方式登录, 请确保账号密码正确
-    login_data = {
-        'login': EMAIL,
-        'password': PASSWORD
-    }
-
-    sign_in_url = 'https://leetcode.cn/accounts/login/'
-    headers = {'User-Agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36", 'Connection': 'keep-alive', 'Referer': sign_in_url, "origin": "https://leetcode.cn/"}
-
-    # 发送登录请求
-    session.post(sign_in_url, headers=headers, data=login_data, timeout=10, allow_redirects=False)
+    session.cookies.set('LEETCODE_SESSION', LEETCODE_SESSION)
     is_login = session.cookies.get('LEETCODE_SESSION') != None
     if is_login:
         print("登录成功!")
         return session
     else:
-        raise Exception("登录失败, 请检查账号密码是否正确!")
+        raise Exception("登录失败, 请检查COOKIE是否正确或过期!")
 
 
 # 获取某个题目的提交记录
@@ -115,12 +105,10 @@ def generate_markdown_text(response_data, session):
     markdown_text += "根据个人需求，目前只考虑获取**提交次数**和**重刷次数**这两个指标，以便更好地进行刷题。\n\n"
     markdown_text += "采用 GitHub Actions 进行自动化部署，无需本地服务器资源。\n\n"
     markdown_text += "## 使用教程\n\n"
-    markdown_text += "1. 由模板项目[生成](https://github.com/shengqiangzhang/leetcode-revise/generate)自己的项目\n\n"
+    markdown_text += "1. 由模板项目[生成](https://github.com/CompetitiveLin/leetcode-revise/generate)自己的项目\n\n"
     markdown_text += "2. 点击生成项目下的 Settings -> Secrets -> Actions -> New repository secret，分别添加以下 Secrets：\n"
-    markdown_text += "    - Name：`LEETCODE_EMAIL`\n"
-    markdown_text += "        - Secret：你的LeetCode账号\n"
-    markdown_text += "    - Name：`LEETCODE_PASSWORD`\n"
-    markdown_text += "        - Secret：你的LeetCode密码\n\n"
+    markdown_text += "    - Name：`LEETCODE_SESSION`\n"
+    markdown_text += "        - Secret：已登录 LeetCode 账号的浏览器中 Cookie 名为 LEETCODE_SESSION 的值\n\n"
     markdown_text += "3. 回到项目首页并进入 Actions 部分，在左侧点击`Github LeetCode Bot`，再点击蓝色提示框中的 `Run workflow`，最后点击绿色的 `Run workflow` 按钮即可\n\n"
     markdown_text += "## 补充说明\n\n"
     markdown_text += "默认配置为每12小时更新一次，可根据需求修改 [action.yml](.github/workflows/action.yml#L9) 文件的第 `9` 行。如有其他需求，欢迎提交PR。\n\n"
@@ -178,7 +166,7 @@ def generate_markdown_text(response_data, session):
 
 
 if __name__ == '__main__':
-    session = login(sys.argv[1], sys.argv[2]) # 登录，第一个参数为leetcode邮箱账号，第二个参数为leetcode密码
+    session = login(sys.argv[1]) # 登录，参数为已登录 LeetCode 账号的浏览器中 Cookie 名为 LEETCODE_SESSION 的值
     response_data = get_accepted_problems(session) # 获取所有通过的题目列表
     markdown_text = generate_markdown_text(response_data, session) # 生成Markdown文本
 

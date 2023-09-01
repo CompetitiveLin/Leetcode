@@ -50,7 +50,7 @@ jobs:
       # 运行leetcode.py文件
       # 将在程序当前生成目录下生成一个新的README.md文件
       - name: Get LeetCode Data
-        run: python leetcode.py ${{ secrets.LEETCODE_EMAIL }} ${{ secrets.LEETCODE_PASSWORD }}
+        run: python leetcode.py ${{ secrets.LEETCODE_SESSION }}
 
       # 执行push操作，推送最新的README.md文件
       - uses: stefanzweifel/git-auto-commit-action@v4
