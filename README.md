@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-09-11 20:06 | [#31 下一个排列](https://leetcode.cn/problems/next-permutation) | MEDIUM | 4 | **2** |
 | 2023-09-10 12:15 | [#2594 修车的最少时间](https://leetcode.cn/problems/minimum-time-to-repair-cars) | MEDIUM | 4 | 1 |
 | 2023-09-10 10:57 | [#53 最大子数组和](https://leetcode.cn/problems/maximum-subarray) | MEDIUM | 2 | 1 |
 | 2023-09-01 17:41 | [#46 全排列](https://leetcode.cn/problems/permutations) | MEDIUM | 6 | **4** |
@@ -219,7 +220,6 @@
 | 2022-07-05 11:23 | [#729 我的日程安排表 I](https://leetcode.cn/problems/my-calendar-i) | MEDIUM | 8 | 1 |
 | 2022-07-04 10:40 | [#1200 最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference) | EASY | 2 | 1 |
 | 2022-07-03 20:08 | [#556 下一个更大元素 III](https://leetcode.cn/problems/next-greater-element-iii) | MEDIUM | 1 | 1 |
-| 2022-07-03 18:41 | [#31 下一个排列](https://leetcode.cn/problems/next-permutation) | MEDIUM | 3 | 1 |
 | 2022-06-24 13:38 | [#515 在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row) | MEDIUM | 1 | 1 |
 | 2022-06-22 14:33 | [#513 找树左下角的值](https://leetcode.cn/problems/find-bottom-left-tree-value) | MEDIUM | 4 | 1 |
 | 2022-06-21 19:28 | [#1108 IP 地址无效化](https://leetcode.cn/problems/defanging-an-ip-address) | EASY | 2 | 1 |
