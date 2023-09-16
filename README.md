@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-09-16 12:58 | [#198 打家劫舍](https://leetcode.cn/problems/house-robber) | MEDIUM | 9 | **4** |
 | 2023-09-14 20:00 | [#75 颜色分类](https://leetcode.cn/problems/sort-colors) | MEDIUM | 3 | 1 |
 | 2023-09-13 20:18 | [#763 划分字母区间](https://leetcode.cn/problems/partition-labels) | MEDIUM | 1 | 1 |
 | 2023-09-12 20:12 | [#438 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string) | MEDIUM | 1 | 1 |
@@ -288,7 +289,6 @@
 | 2022-04-06 14:13 | [#310 最小高度树](https://leetcode.cn/problems/minimum-height-trees) | MEDIUM | 1 | 1 |
 | 2022-04-05 15:42 | [#762 二进制表示中质数个计算置位](https://leetcode.cn/problems/prime-number-of-set-bits-in-binary-representation) | EASY | 3 | 1 |
 | 2022-04-03 20:29 | [#744 寻找比目标字母大的最小字母](https://leetcode.cn/problems/find-smallest-letter-greater-than-target) | EASY | 8 | 1 |
-| 2022-04-02 20:52 | [#198 打家劫舍](https://leetcode.cn/problems/house-robber) | MEDIUM | 8 | **3** |
 | 2022-04-02 18:50 | [#132 分割回文串 II](https://leetcode.cn/problems/palindrome-partitioning-ii) | HARD | 4 | 1 |
 | 2022-04-01 11:41 | [#954 二倍数对数组](https://leetcode.cn/problems/array-of-doubled-pairs) | MEDIUM | 10 | 1 |
 | 2022-03-31 12:57 | [#728 自除数](https://leetcode.cn/problems/self-dividing-numbers) | EASY | 1 | 1 |
