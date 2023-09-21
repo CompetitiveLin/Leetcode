@@ -86,7 +86,7 @@
 | 2023-03-15 11:09 | [#1615 最大网络秩](https://leetcode.cn/problems/maximal-network-rank) | MEDIUM | 1 | 1 |
 | 2023-03-14 19:12 | [#1605 给定行和列的和求可行矩阵](https://leetcode.cn/problems/find-valid-matrix-given-row-and-column-sums) | MEDIUM | 1 | 1 |
 | 2023-03-13 15:38 | [#289 生命游戏](https://leetcode.cn/problems/game-of-life) | MEDIUM | 2 | 1 |
-| 2023-03-08 21:52 | [#剑指 Offer 47 礼物的最大价值](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof) | MEDIUM | 1 | 1 |
+| 2023-03-08 21:52 | [#LCR 166 珠宝的最高价值](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof) | MEDIUM | 1 | 1 |
 | 2023-03-06 21:52 | [#1653 使字符串平衡的最少删除次数](https://leetcode.cn/problems/minimum-deletions-to-make-string-balanced) | MEDIUM | 4 | 1 |
 | 2023-03-03 19:26 | [#1487 保证文件名唯一](https://leetcode.cn/problems/making-file-names-unique) | MEDIUM | 5 | 1 |
 | 2023-02-28 21:44 | [#1801 积压订单中的订单总数](https://leetcode.cn/problems/number-of-orders-in-the-backlog) | MEDIUM | 2 | 1 |
@@ -117,7 +117,7 @@
 | 2022-12-17 18:17 | [#1764 通过连接另一个数组的子数组得到一个数组](https://leetcode.cn/problems/form-array-by-concatenating-subarrays-of-another-array) | MEDIUM | 4 | 1 |
 | 2022-12-16 12:06 | [#1785 构成特定和需要添加的最少元素](https://leetcode.cn/problems/minimum-elements-to-add-to-form-a-given-sum) | MEDIUM | 2 | 1 |
 | 2022-12-15 20:52 | [#21 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists) | EASY | 1 | 1 |
-| 2022-12-15 20:42 | [#剑指 Offer 25 合并两个排序的链表](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof) | EASY | 1 | 1 |
+| 2022-12-15 20:42 | [#LCR 142 训练计划 IV](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof) | EASY | 1 | 1 |
 | 2022-12-15 20:23 | [#23 合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists) | HARD | 4 | 1 |
 | 2022-12-15 11:18 | [#1945 字符串转化后的各位数字之和](https://leetcode.cn/problems/sum-of-digits-of-string-after-convert) | EASY | 3 | 1 |
 | 2022-12-13 12:34 | [#24 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs) | MEDIUM | 4 | 1 |
@@ -218,7 +218,7 @@
 | 2022-07-23 14:13 | [#LCR 115 序列重建](https://leetcode.cn/problems/ur2n8P) | MEDIUM | 7 | 1 |
 | 2022-07-17 11:09 | [#565 数组嵌套](https://leetcode.cn/problems/array-nesting) | MEDIUM | 1 | 1 |
 | 2022-07-14 13:12 | [#745 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search) | HARD | 2 | 1 |
-| 2022-07-13 19:22 | [#735 行星碰撞](https://leetcode.cn/problems/asteroid-collision) | MEDIUM | 11 | 1 |
+| 2022-07-13 19:22 | [#735 小行星碰撞](https://leetcode.cn/problems/asteroid-collision) | MEDIUM | 11 | 1 |
 | 2022-07-11 13:05 | [#676 实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary) | MEDIUM | 2 | 1 |
 | 2022-07-08 14:39 | [#3 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters) | MEDIUM | 5 | 1 |
 | 2022-07-08 13:51 | [#1217 玩筹码](https://leetcode.cn/problems/minimum-cost-to-move-chips-to-the-same-position) | EASY | 1 | 1 |
@@ -340,7 +340,7 @@
 | 2021-05-21 14:21 | [#200 岛屿数量](https://leetcode.cn/problems/number-of-islands) | MEDIUM | 1 | 1 |
 | 2021-05-10 15:31 | [#872 叶子相似的树](https://leetcode.cn/problems/leaf-similar-trees) | EASY | 7 | 1 |
 | 2021-05-05 10:53 | [#154 寻找旋转排序数组中的最小值 II](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii) | HARD | 1 | 1 |
-| 2021-05-05 10:49 | [#剑指 Offer 11 旋转数组的最小数字](https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof) | EASY | 2 | **2** |
+| 2021-05-05 10:49 | [#LCR 128 库存管理 I](https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof) | EASY | 2 | **2** |
 | 2021-04-13 18:39 | [#783 二叉搜索树节点最小距离](https://leetcode.cn/problems/minimum-distance-between-bst-nodes) | EASY | 1 | 1 |
 | 2021-03-30 13:37 | [#74 搜索二维矩阵](https://leetcode.cn/problems/search-a-2d-matrix) | MEDIUM | 1 | 1 |
 | 2021-03-27 22:24 | [#61 旋转链表](https://leetcode.cn/problems/rotate-list) | MEDIUM | 3 | 1 |
