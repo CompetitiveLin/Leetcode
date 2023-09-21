@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-09-21 15:14 | [#155 最小栈](https://leetcode.cn/problems/min-stack) | MEDIUM | 3 | 1 |
 | 2023-09-19 21:25 | [#347 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements) | MEDIUM | 3 | 1 |
 | 2023-09-18 19:50 | [#337 打家劫舍 III](https://leetcode.cn/problems/house-robber-iii) | MEDIUM | 4 | **2** |
 | 2023-09-17 22:03 | [#213 打家劫舍 II](https://leetcode.cn/problems/house-robber-ii) | MEDIUM | 4 | **2** |
@@ -161,7 +162,7 @@
 | 2022-11-15 19:11 | [#1710 卡车上的最大单元数](https://leetcode.cn/problems/maximum-units-on-a-truck) | EASY | 2 | 1 |
 | 2022-11-14 00:19 | [#704 二分查找](https://leetcode.cn/problems/binary-search) | EASY | 10 | **2** |
 | 2022-11-13 17:37 | [#916 单词子集](https://leetcode.cn/problems/word-subsets) | MEDIUM | 4 | 1 |
-| 2022-11-13 15:18 | [#剑指 Offer 51 数组中的逆序对](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof) | HARD | 3 | **3** |
+| 2022-11-13 15:18 | [#LCR 170 交易逆序对的总数](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof) | HARD | 3 | **3** |
 | 2022-11-13 13:33 | [#791 自定义字符串排序](https://leetcode.cn/problems/custom-sort-string) | MEDIUM | 2 | 1 |
 | 2022-11-12 20:54 | [#1339 分裂二叉树的最大乘积](https://leetcode.cn/problems/maximum-product-of-splitted-binary-tree) | MEDIUM | 3 | 1 |
 | 2022-11-12 14:18 | [#790 多米诺和托米诺平铺](https://leetcode.cn/problems/domino-and-tromino-tiling) | MEDIUM | 4 | 1 |
