@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-09-22 19:56 | [#56 合并区间](https://leetcode.cn/problems/merge-intervals) | MEDIUM | 2 | 1 |
 | 2023-09-21 15:14 | [#155 最小栈](https://leetcode.cn/problems/min-stack) | MEDIUM | 3 | 1 |
 | 2023-09-19 21:25 | [#347 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements) | MEDIUM | 3 | 1 |
 | 2023-09-18 19:50 | [#337 打家劫舍 III](https://leetcode.cn/problems/house-robber-iii) | MEDIUM | 4 | **2** |
