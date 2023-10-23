@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-10-23 22:55 | [#142 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii) | MEDIUM | 2 | **2** |
 | 2023-10-23 19:28 | [#141 环形链表](https://leetcode.cn/problems/linked-list-cycle) | EASY | 2 | 1 |
 | 2023-10-11 10:11 | [#2512 奖励最顶尖的 K 名学生](https://leetcode.cn/problems/reward-top-k-students) | MEDIUM | 1 | 1 |
 | 2023-10-05 19:53 | [#309 买卖股票的最佳时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown) | MEDIUM | 1 | 1 |
@@ -69,7 +70,6 @@
 | 2023-05-25 16:03 | [#452 用最少数量的箭引爆气球](https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons) | MEDIUM | 2 | 1 |
 | 2023-05-21 14:18 | [#435 无重叠区间](https://leetcode.cn/problems/non-overlapping-intervals) | MEDIUM | 3 | 1 |
 | 2023-05-14 18:13 | [#1054 距离相等的条形码](https://leetcode.cn/problems/distant-barcodes) | MEDIUM | 3 | 1 |
-| 2023-05-12 22:56 | [#142 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii) | MEDIUM | 1 | 1 |
 | 2023-05-11 17:54 | [#560 和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k) | MEDIUM | 1 | 1 |
 | 2023-05-11 10:54 | [#1016 子串能表示从 1 到 N 数字的二进制串](https://leetcode.cn/problems/binary-string-with-substrings-representing-1-to-n) | MEDIUM | 2 | 1 |
 | 2023-05-07 12:24 | [#1010 总持续时间可被 60 整除的歌曲](https://leetcode.cn/problems/pairs-of-songs-with-total-durations-divisible-by-60) | MEDIUM | 3 | 1 |
