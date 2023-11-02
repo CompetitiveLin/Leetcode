@@ -24,14 +24,8 @@ def login(LEETCODE_SESSION):
     session.mount('http://', HTTPAdapter(max_retries=6))  # 超时重试次数
     session.mount('https://', HTTPAdapter(max_retries=6))  # 超时重试次数
     session.encoding = "utf-8"  # 编码格式
-
     session.cookies.set('LEETCODE_SESSION', LEETCODE_SESSION)
-    is_login = session.cookies.get('LEETCODE_SESSION') != None
-    if is_login:
-        print("登录成功!")
-        return session
-    else:
-        raise Exception("登录失败, 请检查COOKIE是否正确或过期!")
+    return session
 
 
 # 获取某个题目的提交记录
@@ -90,16 +84,16 @@ def get_accepted_problems(session):
     r = session.post(url, data=payload, headers=headers, verify=False)
     response_data = json.loads(r.text)
 
-    return response_data
+    return response_data['data']['userProfileQuestions']
 
 
 
 # 生成Markdown文本
 def generate_markdown_text(response_data, session):
 
-
+    response_data = response_data['questions']
+    
     # 相关介绍
-    response_data = response_data['data']['userProfileQuestions']['questions']
     markdown_text =  "## 相关介绍\n\n"
     markdown_text += "这是一个 [LeetCode](https://leetcode.cn/problemset/all/) 题目自动统计及分析程序，可自动统计所有提交通过的题目，并以 Markdown 的形式展示。\n\n"
     markdown_text += "根据个人需求，目前只考虑获取**提交次数**和**重刷次数**这两个指标，以便更好地进行刷题。\n\n"
@@ -168,8 +162,10 @@ def generate_markdown_text(response_data, session):
 if __name__ == '__main__':
     session = login(sys.argv[1]) # 登录，参数为已登录 LeetCode 账号的浏览器中 Cookie 名为 LEETCODE_SESSION 的值
     response_data = get_accepted_problems(session) # 获取所有通过的题目列表
-    markdown_text = generate_markdown_text(response_data, session) # 生成Markdown文本
-
-    # 更新README.md文件
-    with open("README.md", "w") as f:
-        f.write(markdown_text)
+    if response_data:
+        markdown_text = generate_markdown_text(response_data, session) # 生成Markdown文本
+        # 更新README.md文件
+        with open("README.md", "w") as f:
+            f.write(markdown_text)
+    else:
+        raise Exception("Cookies 已过期，请更新 LEETCODE_SESSION")
