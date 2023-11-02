@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-11-02 10:23 | [#153 寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array) | MEDIUM | 1 | 1 |
 | 2023-10-27 10:26 | [#1465 切割后面积最大的蛋糕](https://leetcode.cn/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) | MEDIUM | 2 | 1 |
 | 2023-10-23 22:55 | [#142 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii) | MEDIUM | 2 | **2** |
 | 2023-10-23 19:28 | [#141 环形链表](https://leetcode.cn/problems/linked-list-cycle) | EASY | 2 | 1 |
