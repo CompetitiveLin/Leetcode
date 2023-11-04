@@ -26,6 +26,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-11-04 16:08 | [#47 全排列 II](https://leetcode.cn/problems/permutations-ii) | MEDIUM | 5 | **4** |
+| 2023-11-04 15:45 | [#46 全排列](https://leetcode.cn/problems/permutations) | MEDIUM | 7 | **5** |
 | 2023-11-02 10:23 | [#153 寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array) | MEDIUM | 1 | 1 |
 | 2023-10-27 10:26 | [#1465 切割后面积最大的蛋糕](https://leetcode.cn/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) | MEDIUM | 2 | 1 |
 | 2023-10-23 22:55 | [#142 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii) | MEDIUM | 2 | **2** |
@@ -47,11 +49,9 @@
 | 2023-09-11 20:06 | [#31 下一个排列](https://leetcode.cn/problems/next-permutation) | MEDIUM | 4 | **2** |
 | 2023-09-10 12:15 | [#2594 修车的最少时间](https://leetcode.cn/problems/minimum-time-to-repair-cars) | MEDIUM | 4 | 1 |
 | 2023-09-10 10:57 | [#53 最大子数组和](https://leetcode.cn/problems/maximum-subarray) | MEDIUM | 2 | 1 |
-| 2023-09-01 17:41 | [#46 全排列](https://leetcode.cn/problems/permutations) | MEDIUM | 6 | **4** |
 | 2023-09-01 09:45 | [#2240 买钢笔和铅笔的方案数](https://leetcode.cn/problems/number-of-ways-to-buy-pens-and-pencils) | MEDIUM | 3 | 1 |
 | 2023-08-28 19:16 | [#57 插入区间](https://leetcode.cn/problems/insert-interval) | MEDIUM | 1 | 1 |
 | 2023-08-25 09:49 | [#83 删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list) | EASY | 3 | 1 |
-| 2023-08-13 13:24 | [#47 全排列 II](https://leetcode.cn/problems/permutations-ii) | MEDIUM | 3 | **3** |
 | 2023-08-10 20:25 | [#784 字母大小写全排列](https://leetcode.cn/problems/letter-case-permutation) | MEDIUM | 7 | **3** |
 | 2023-07-16 12:33 | [#1679 K 和数对的最大数目](https://leetcode.cn/problems/max-number-of-k-sum-pairs) | MEDIUM | 1 | 1 |
 | 2023-07-13 23:30 | [#931 下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum) | MEDIUM | 1 | 1 |
