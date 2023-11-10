@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-11-10 22:06 | [#114 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 2 | **2** |
 | 2023-11-09 15:01 | [#151 反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string) | MEDIUM | 2 | 1 |
 | 2023-11-04 16:08 | [#47 全排列 II](https://leetcode.cn/problems/permutations-ii) | MEDIUM | 5 | **4** |
 | 2023-11-04 15:45 | [#46 全排列](https://leetcode.cn/problems/permutations) | MEDIUM | 7 | **5** |
@@ -367,7 +368,6 @@
 | 2020-08-08 09:45 | [#99 恢复二叉搜索树](https://leetcode.cn/problems/recover-binary-search-tree) | MEDIUM | 1 | 1 |
 | 2020-08-06 16:44 | [#495 提莫攻击](https://leetcode.cn/problems/teemo-attacking) | EASY | 2 | 1 |
 | 2020-08-03 20:36 | [#415 字符串相加](https://leetcode.cn/problems/add-strings) | EASY | 6 | 1 |
-| 2020-08-02 19:45 | [#114 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 1 | 1 |
 | 2020-07-31 13:43 | [#面试题 17.01 不用加号的加法](https://leetcode.cn/problems/add-without-plus-lcci) | EASY | 1 | 1 |
 | 2020-07-31 13:05 | [#面试题 08.03 魔术索引](https://leetcode.cn/problems/magic-index-lcci) | EASY | 2 | 1 |
 | 2020-07-29 10:05 | [#12 整数转罗马数字](https://leetcode.cn/problems/integer-to-roman) | MEDIUM | 1 | 1 |
