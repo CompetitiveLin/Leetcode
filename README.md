@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-11-13 15:25 | [#1234 替换子串得到平衡字符串](https://leetcode.cn/problems/replace-the-substring-for-balanced-string) | MEDIUM | 2 | 1 |
 | 2023-11-10 22:06 | [#114 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 2 | **2** |
 | 2023-11-09 15:01 | [#151 反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string) | MEDIUM | 2 | 1 |
 | 2023-11-04 16:08 | [#47 全排列 II](https://leetcode.cn/problems/permutations-ii) | MEDIUM | 5 | **4** |
