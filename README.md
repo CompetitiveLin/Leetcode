@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-12-06 11:20 | [#3 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters) | MEDIUM | 8 | **2** |
 | 2023-12-05 19:53 | [#53 最大子数组和](https://leetcode.cn/problems/maximum-subarray) | MEDIUM | 3 | **2** |
 | 2023-12-03 10:34 | [#1423 可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards) | MEDIUM | 2 | 1 |
 | 2023-12-02 13:16 | [#215 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array) | MEDIUM | 3 | **2** |
@@ -240,7 +241,6 @@
 | 2022-07-14 13:12 | [#745 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search) | HARD | 2 | 1 |
 | 2022-07-13 19:22 | [#735 小行星碰撞](https://leetcode.cn/problems/asteroid-collision) | MEDIUM | 11 | 1 |
 | 2022-07-11 13:05 | [#676 实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary) | MEDIUM | 2 | 1 |
-| 2022-07-08 14:39 | [#3 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters) | MEDIUM | 5 | 1 |
 | 2022-07-08 13:51 | [#1217 玩筹码](https://leetcode.cn/problems/minimum-cost-to-move-chips-to-the-same-position) | EASY | 1 | 1 |
 | 2022-07-07 15:38 | [#648 单词替换](https://leetcode.cn/problems/replace-words) | MEDIUM | 3 | 1 |
 | 2022-07-05 11:23 | [#729 我的日程安排表 I](https://leetcode.cn/problems/my-calendar-i) | MEDIUM | 8 | 1 |
