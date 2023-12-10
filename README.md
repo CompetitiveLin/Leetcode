@@ -26,6 +26,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-12-10 12:27 | [#1137 第 N 个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number) | EASY | 2 | **2** |
+| 2023-12-10 12:18 | [#70 爬楼梯](https://leetcode.cn/problems/climbing-stairs) | EASY | 3 | **2** |
 | 2023-12-06 11:20 | [#3 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters) | MEDIUM | 8 | **2** |
 | 2023-12-05 19:53 | [#53 最大子数组和](https://leetcode.cn/problems/maximum-subarray) | MEDIUM | 3 | **2** |
 | 2023-12-03 10:34 | [#1423 可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards) | MEDIUM | 2 | 1 |
@@ -341,13 +343,11 @@
 | 2021-07-12 19:52 | [#714 买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | MEDIUM | 1 | 1 |
 | 2021-07-12 18:59 | [#740 删除并获得点数](https://leetcode.cn/problems/delete-and-earn) | MEDIUM | 1 | 1 |
 | 2021-07-06 16:21 | [#746 使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs) | EASY | 1 | 1 |
-| 2021-07-06 16:03 | [#70 爬楼梯](https://leetcode.cn/problems/climbing-stairs) | EASY | 2 | 1 |
 | 2021-07-05 15:44 | [#120 三角形最小路径和](https://leetcode.cn/problems/triangle) | MEDIUM | 2 | 1 |
 | 2021-07-05 14:12 | [#55 跳跃游戏](https://leetcode.cn/problems/jump-game) | MEDIUM | 4 | 1 |
 | 2021-07-05 13:41 | [#45 跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii) | MEDIUM | 15 | 1 |
 | 2021-07-05 13:03 | [#22 括号生成](https://leetcode.cn/problems/generate-parentheses) | MEDIUM | 2 | **2** |
 | 2021-07-05 12:31 | [#509 斐波那契数](https://leetcode.cn/problems/fibonacci-number) | EASY | 2 | 1 |
-| 2021-07-05 12:30 | [#1137 第 N 个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number) | EASY | 1 | 1 |
 | 2021-07-02 15:38 | [#1833 雪糕的最大数量](https://leetcode.cn/problems/maximum-ice-cream-bars) | MEDIUM | 4 | 1 |
 | 2021-06-15 10:56 | [#33 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array) | MEDIUM | 1 | 1 |
 | 2021-06-13 15:46 | [#278 第一个错误的版本](https://leetcode.cn/problems/first-bad-version) | EASY | 4 | 1 |
