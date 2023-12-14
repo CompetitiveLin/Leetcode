@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-12-14 17:19 | [#226 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree) | EASY | 3 | 1 |
 | 2023-12-10 12:27 | [#1137 第 N 个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number) | EASY | 2 | **2** |
 | 2023-12-10 12:18 | [#70 爬楼梯](https://leetcode.cn/problems/climbing-stairs) | EASY | 3 | **2** |
 | 2023-12-06 11:20 | [#3 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters) | MEDIUM | 8 | **2** |
