@@ -26,6 +26,34 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-12-29 16:24 | [#322 零钱兑换](https://leetcode.cn/problems/coin-change) | MEDIUM | 1 | 1 |
+| 2023-12-29 15:53 | [#230 二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst) | MEDIUM | 1 | 1 |
+| 2023-12-29 15:01 | [#78 子集](https://leetcode.cn/problems/subsets) | MEDIUM | 2 | 1 |
+| 2023-12-28 17:12 | [#279 完全平方数](https://leetcode.cn/problems/perfect-squares) | MEDIUM | 2 | 1 |
+| 2023-12-28 13:30 | [#5 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring) | MEDIUM | 2 | 1 |
+| 2023-12-26 22:24 | [#1143 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence) | MEDIUM | 2 | 1 |
+| 2023-12-24 12:30 | [#567 字符串的排列](https://leetcode.cn/problems/permutation-in-string) | MEDIUM | 3 | 1 |
+| 2023-12-23 10:30 | [#1962 移除石子使总数最小](https://leetcode.cn/problems/remove-stones-to-minimize-the-total) | MEDIUM | 1 | 1 |
+| 2023-12-20 20:08 | [#94 二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal) | EASY | 1 | 1 |
+| 2023-12-20 20:00 | [#11 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water) | MEDIUM | 5 | **2** |
+| 2023-12-14 17:19 | [#226 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree) | EASY | 3 | 1 |
+| 2023-12-10 12:27 | [#1137 第 N 个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number) | EASY | 2 | **2** |
+| 2023-12-10 12:18 | [#70 爬楼梯](https://leetcode.cn/problems/climbing-stairs) | EASY | 3 | **2** |
+| 2023-12-06 11:20 | [#3 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters) | MEDIUM | 8 | **2** |
+| 2023-12-05 19:53 | [#53 最大子数组和](https://leetcode.cn/problems/maximum-subarray) | MEDIUM | 3 | **2** |
+| 2023-12-03 10:34 | [#1423 可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards) | MEDIUM | 2 | 1 |
+| 2023-12-02 13:16 | [#215 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array) | MEDIUM | 3 | **2** |
+| 2023-12-02 11:49 | [#1094 拼车](https://leetcode.cn/problems/car-pooling) | MEDIUM | 3 | 1 |
+| 2023-12-01 15:34 | [#287 寻找重复数](https://leetcode.cn/problems/find-the-duplicate-number) | MEDIUM | 1 | 1 |
+| 2023-12-01 14:44 | [#2661 找出叠涂元素](https://leetcode.cn/problems/first-completely-painted-row-or-column) | MEDIUM | 3 | 1 |
+| 2023-11-25 16:27 | [#92 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii) | MEDIUM | 2 | **2** |
+| 2023-11-25 15:33 | [#138 随机链表的复制](https://leetcode.cn/problems/copy-list-with-random-pointer) | MEDIUM | 2 | 1 |
+| 2023-11-13 20:11 | [#307 区域和检索 - 数组可修改](https://leetcode.cn/problems/range-sum-query-mutable) | MEDIUM | 4 | **3** |
+| 2023-11-13 15:25 | [#1234 替换子串得到平衡字符串](https://leetcode.cn/problems/replace-the-substring-for-balanced-string) | MEDIUM | 2 | 1 |
+| 2023-11-10 22:06 | [#114 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 2 | **2** |
+| 2023-11-09 15:01 | [#151 反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string) | MEDIUM | 2 | 1 |
+| 2023-11-04 16:08 | [#47 全排列 II](https://leetcode.cn/problems/permutations-ii) | MEDIUM | 5 | **4** |
+| 2023-11-04 15:45 | [#46 全排列](https://leetcode.cn/problems/permutations) | MEDIUM | 7 | **5** |
 | 2023-11-02 10:23 | [#153 寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array) | MEDIUM | 1 | 1 |
 | 2023-10-27 10:26 | [#1465 切割后面积最大的蛋糕](https://leetcode.cn/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) | MEDIUM | 2 | 1 |
 | 2023-10-23 22:55 | [#142 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii) | MEDIUM | 2 | **2** |
@@ -46,12 +74,9 @@
 | 2023-09-12 20:12 | [#438 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string) | MEDIUM | 1 | 1 |
 | 2023-09-11 20:06 | [#31 下一个排列](https://leetcode.cn/problems/next-permutation) | MEDIUM | 4 | **2** |
 | 2023-09-10 12:15 | [#2594 修车的最少时间](https://leetcode.cn/problems/minimum-time-to-repair-cars) | MEDIUM | 4 | 1 |
-| 2023-09-10 10:57 | [#53 最大子数组和](https://leetcode.cn/problems/maximum-subarray) | MEDIUM | 2 | 1 |
-| 2023-09-01 17:41 | [#46 全排列](https://leetcode.cn/problems/permutations) | MEDIUM | 6 | **4** |
 | 2023-09-01 09:45 | [#2240 买钢笔和铅笔的方案数](https://leetcode.cn/problems/number-of-ways-to-buy-pens-and-pencils) | MEDIUM | 3 | 1 |
 | 2023-08-28 19:16 | [#57 插入区间](https://leetcode.cn/problems/insert-interval) | MEDIUM | 1 | 1 |
 | 2023-08-25 09:49 | [#83 删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list) | EASY | 3 | 1 |
-| 2023-08-13 13:24 | [#47 全排列 II](https://leetcode.cn/problems/permutations-ii) | MEDIUM | 3 | **3** |
 | 2023-08-10 20:25 | [#784 字母大小写全排列](https://leetcode.cn/problems/letter-case-permutation) | MEDIUM | 7 | **3** |
 | 2023-07-16 12:33 | [#1679 K 和数对的最大数目](https://leetcode.cn/problems/max-number-of-k-sum-pairs) | MEDIUM | 1 | 1 |
 | 2023-07-13 23:30 | [#931 下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum) | MEDIUM | 1 | 1 |
@@ -120,7 +145,6 @@
 | 2023-01-05 20:00 | [#143 重排链表](https://leetcode.cn/problems/reorder-list) | MEDIUM | 2 | 1 |
 | 2023-01-05 19:37 | [#206 反转链表](https://leetcode.cn/problems/reverse-linked-list) | EASY | 2 | 1 |
 | 2023-01-03 15:54 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM | 4 | 1 |
-| 2023-01-01 19:08 | [#215 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array) | MEDIUM | 2 | 1 |
 | 2022-12-31 10:58 | [#2037 使每位学生都有座位的最少移动次数](https://leetcode.cn/problems/minimum-number-of-moves-to-seat-everyone) | EASY | 1 | 1 |
 | 2022-12-19 14:07 | [#1971 寻找图中是否存在路径](https://leetcode.cn/problems/find-if-path-exists-in-graph) | EASY | 4 | 1 |
 | 2022-12-18 21:25 | [#28 找出字符串中第一个匹配项的下标](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string) | EASY | 1 | 1 |
@@ -230,10 +254,8 @@
 | 2022-07-14 13:12 | [#745 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search) | HARD | 2 | 1 |
 | 2022-07-13 19:22 | [#735 小行星碰撞](https://leetcode.cn/problems/asteroid-collision) | MEDIUM | 11 | 1 |
 | 2022-07-11 13:05 | [#676 实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary) | MEDIUM | 2 | 1 |
-| 2022-07-08 14:39 | [#3 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters) | MEDIUM | 5 | 1 |
 | 2022-07-08 13:51 | [#1217 玩筹码](https://leetcode.cn/problems/minimum-cost-to-move-chips-to-the-same-position) | EASY | 1 | 1 |
 | 2022-07-07 15:38 | [#648 单词替换](https://leetcode.cn/problems/replace-words) | MEDIUM | 3 | 1 |
-| 2022-07-05 14:13 | [#307 区域和检索 - 数组可修改](https://leetcode.cn/problems/range-sum-query-mutable) | MEDIUM | 3 | **2** |
 | 2022-07-05 11:23 | [#729 我的日程安排表 I](https://leetcode.cn/problems/my-calendar-i) | MEDIUM | 8 | 1 |
 | 2022-07-04 10:40 | [#1200 最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference) | EASY | 2 | 1 |
 | 2022-07-03 20:08 | [#556 下一个更大元素 III](https://leetcode.cn/problems/next-greater-element-iii) | MEDIUM | 1 | 1 |
@@ -332,13 +354,11 @@
 | 2021-07-12 19:52 | [#714 买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | MEDIUM | 1 | 1 |
 | 2021-07-12 18:59 | [#740 删除并获得点数](https://leetcode.cn/problems/delete-and-earn) | MEDIUM | 1 | 1 |
 | 2021-07-06 16:21 | [#746 使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs) | EASY | 1 | 1 |
-| 2021-07-06 16:03 | [#70 爬楼梯](https://leetcode.cn/problems/climbing-stairs) | EASY | 2 | 1 |
 | 2021-07-05 15:44 | [#120 三角形最小路径和](https://leetcode.cn/problems/triangle) | MEDIUM | 2 | 1 |
 | 2021-07-05 14:12 | [#55 跳跃游戏](https://leetcode.cn/problems/jump-game) | MEDIUM | 4 | 1 |
 | 2021-07-05 13:41 | [#45 跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii) | MEDIUM | 15 | 1 |
 | 2021-07-05 13:03 | [#22 括号生成](https://leetcode.cn/problems/generate-parentheses) | MEDIUM | 2 | **2** |
 | 2021-07-05 12:31 | [#509 斐波那契数](https://leetcode.cn/problems/fibonacci-number) | EASY | 2 | 1 |
-| 2021-07-05 12:30 | [#1137 第 N 个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number) | EASY | 1 | 1 |
 | 2021-07-02 15:38 | [#1833 雪糕的最大数量](https://leetcode.cn/problems/maximum-ice-cream-bars) | MEDIUM | 4 | 1 |
 | 2021-06-15 10:56 | [#33 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array) | MEDIUM | 1 | 1 |
 | 2021-06-13 15:46 | [#278 第一个错误的版本](https://leetcode.cn/problems/first-bad-version) | EASY | 4 | 1 |
@@ -366,7 +386,6 @@
 | 2020-08-08 09:45 | [#99 恢复二叉搜索树](https://leetcode.cn/problems/recover-binary-search-tree) | MEDIUM | 1 | 1 |
 | 2020-08-06 16:44 | [#495 提莫攻击](https://leetcode.cn/problems/teemo-attacking) | EASY | 2 | 1 |
 | 2020-08-03 20:36 | [#415 字符串相加](https://leetcode.cn/problems/add-strings) | EASY | 6 | 1 |
-| 2020-08-02 19:45 | [#114 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 1 | 1 |
 | 2020-07-31 13:43 | [#面试题 17.01 不用加号的加法](https://leetcode.cn/problems/add-without-plus-lcci) | EASY | 1 | 1 |
 | 2020-07-31 13:05 | [#面试题 08.03 魔术索引](https://leetcode.cn/problems/magic-index-lcci) | EASY | 2 | 1 |
 | 2020-07-29 10:05 | [#12 整数转罗马数字](https://leetcode.cn/problems/integer-to-roman) | MEDIUM | 1 | 1 |
@@ -375,7 +394,6 @@
 | 2020-07-23 15:55 | [#2 两数相加](https://leetcode.cn/problems/add-two-numbers) | MEDIUM | 5 | 1 |
 | 2020-07-23 14:37 | [#344 反转字符串](https://leetcode.cn/problems/reverse-string) | EASY | 5 | 1 |
 | 2020-07-23 14:15 | [#64 最小路径和](https://leetcode.cn/problems/minimum-path-sum) | MEDIUM | 6 | 1 |
-| 2020-07-22 21:24 | [#11 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water) | MEDIUM | 4 | 1 |
 | 2020-07-20 14:17 | [#167 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted) | MEDIUM | 1 | 1 |
 | 2020-07-18 23:56 | [#97 交错字符串](https://leetcode.cn/problems/interleaving-string) | MEDIUM | 4 | 1 |
 | 2020-07-17 16:01 | [#35 搜索插入位置](https://leetcode.cn/problems/search-insert-position) | EASY | 7 | 1 |
