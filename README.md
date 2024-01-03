@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-01-03 09:18 | [#15 三数之和](https://leetcode.cn/problems/3sum) | MEDIUM | 7 | **3** |
 | 2023-12-29 16:24 | [#322 零钱兑换](https://leetcode.cn/problems/coin-change) | MEDIUM | 1 | 1 |
 | 2023-12-29 15:53 | [#230 二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst) | MEDIUM | 1 | 1 |
 | 2023-12-29 15:01 | [#78 子集](https://leetcode.cn/problems/subsets) | MEDIUM | 2 | 1 |
@@ -183,7 +184,6 @@
 | 2022-11-21 20:32 | [#18 四数之和](https://leetcode.cn/problems/4sum) | MEDIUM | 4 | 1 |
 | 2022-11-21 19:47 | [#16 最接近的三数之和](https://leetcode.cn/problems/3sum-closest) | MEDIUM | 2 | 1 |
 | 2022-11-21 18:17 | [#1 两数之和](https://leetcode.cn/problems/two-sum) | EASY | 11 | **2** |
-| 2022-11-21 16:43 | [#15 三数之和](https://leetcode.cn/problems/3sum) | MEDIUM | 5 | **2** |
 | 2022-11-21 14:35 | [#692 前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words) | MEDIUM | 2 | 1 |
 | 2022-11-21 11:04 | [#799 香槟塔](https://leetcode.cn/problems/champagne-tower) | MEDIUM | 2 | 1 |
 | 2022-11-19 20:48 | [#139 单词拆分](https://leetcode.cn/problems/word-break) | MEDIUM | 3 | 1 |
