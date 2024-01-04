@@ -114,7 +114,7 @@
 | 2023-04-14 20:04 | [#1023 驼峰式匹配](https://leetcode.cn/problems/camelcase-matching) | MEDIUM | 3 | 1 |
 | 2023-04-09 11:22 | [#739 每日温度](https://leetcode.cn/problems/daily-temperatures) | MEDIUM | 2 | 1 |
 | 2023-04-03 22:13 | [#1053 交换一次的先前排列](https://leetcode.cn/problems/previous-permutation-with-one-swap) | MEDIUM | 4 | 1 |
-| 2023-03-30 20:02 | [#1637 两点之间不包含任何点的最宽垂直区域](https://leetcode.cn/problems/widest-vertical-area-between-two-points-containing-no-points) | MEDIUM | 2 | 1 |
+| 2023-03-30 20:02 | [#1637 两点之间不包含任何点的最宽垂直区域](https://leetcode.cn/problems/widest-vertical-area-between-two-points-containing-no-points) | EASY | 2 | 1 |
 | 2023-03-29 23:55 | [#1641 统计字典序元音字符串的数目](https://leetcode.cn/problems/count-sorted-vowel-strings) | MEDIUM | 1 | 1 |
 | 2023-03-22 20:57 | [#300 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence) | MEDIUM | 3 | 1 |
 | 2023-03-22 19:50 | [#1626 无矛盾的最佳球队](https://leetcode.cn/problems/best-team-with-no-conflicts) | MEDIUM | 5 | 1 |
