@@ -26,6 +26,10 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-01-18 15:29 | [#494 目标和](https://leetcode.cn/problems/target-sum) | MEDIUM | 2 | **2** |
+| 2024-01-18 14:02 | [#416 分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum) | MEDIUM | 1 | 1 |
+| 2024-01-18 10:52 | [#148 排序链表](https://leetcode.cn/problems/sort-list) | MEDIUM | 1 | 1 |
+| 2024-01-18 10:12 | [#189 轮转数组](https://leetcode.cn/problems/rotate-array) | MEDIUM | 1 | 1 |
 | 2024-01-11 14:02 | [#373 查找和最小的 K 对数字](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums) | MEDIUM | 1 | 1 |
 | 2024-01-08 20:52 | [#82 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii) | MEDIUM | 1 | 1 |
 | 2024-01-03 10:27 | [#150 逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation) | MEDIUM | 1 | 1 |
@@ -366,7 +370,6 @@
 | 2021-07-02 15:38 | [#1833 雪糕的最大数量](https://leetcode.cn/problems/maximum-ice-cream-bars) | MEDIUM | 4 | 1 |
 | 2021-06-15 10:56 | [#33 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array) | MEDIUM | 1 | 1 |
 | 2021-06-13 15:46 | [#278 第一个错误的版本](https://leetcode.cn/problems/first-bad-version) | EASY | 4 | 1 |
-| 2021-06-07 19:49 | [#494 目标和](https://leetcode.cn/problems/target-sum) | MEDIUM | 1 | 1 |
 | 2021-06-04 09:26 | [#160 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists) | EASY | 7 | 1 |
 | 2021-05-24 16:52 | [#130 被围绕的区域](https://leetcode.cn/problems/surrounded-regions) | MEDIUM | 4 | **2** |
 | 2021-05-24 11:09 | [#547 省份数量](https://leetcode.cn/problems/number-of-provinces) | MEDIUM | 1 | 1 |
