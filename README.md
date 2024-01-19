@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-01-19 16:19 | [#56 合并区间](https://leetcode.cn/problems/merge-intervals) | MEDIUM | 4 | **2** |
 | 2024-01-18 15:29 | [#494 目标和](https://leetcode.cn/problems/target-sum) | MEDIUM | 2 | **2** |
 | 2024-01-18 14:02 | [#416 分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum) | MEDIUM | 1 | 1 |
 | 2024-01-18 10:52 | [#148 排序链表](https://leetcode.cn/problems/sort-list) | MEDIUM | 1 | 1 |
@@ -72,7 +73,6 @@
 | 2023-10-05 18:14 | [#122 买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii) | MEDIUM | 1 | 1 |
 | 2023-10-05 17:54 | [#121 买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock) | EASY | 1 | 1 |
 | 2023-09-25 22:38 | [#146 LRU 缓存](https://leetcode.cn/problems/lru-cache) | MEDIUM | 1 | 1 |
-| 2023-09-22 19:56 | [#56 合并区间](https://leetcode.cn/problems/merge-intervals) | MEDIUM | 2 | 1 |
 | 2023-09-21 15:14 | [#155 最小栈](https://leetcode.cn/problems/min-stack) | MEDIUM | 3 | 1 |
 | 2023-09-19 21:25 | [#347 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements) | MEDIUM | 3 | 1 |
 | 2023-09-18 19:50 | [#337 打家劫舍 III](https://leetcode.cn/problems/house-robber-iii) | MEDIUM | 4 | **2** |
