@@ -26,13 +26,13 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-01-20 15:18 | [#82 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii) | MEDIUM | 3 | **2** |
 | 2024-01-20 13:17 | [#373 查找和最小的 K 对数字](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums) | MEDIUM | 3 | **2** |
 | 2024-01-19 16:19 | [#56 合并区间](https://leetcode.cn/problems/merge-intervals) | MEDIUM | 4 | **2** |
 | 2024-01-18 15:29 | [#494 目标和](https://leetcode.cn/problems/target-sum) | MEDIUM | 2 | **2** |
 | 2024-01-18 14:02 | [#416 分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum) | MEDIUM | 1 | 1 |
 | 2024-01-18 10:52 | [#148 排序链表](https://leetcode.cn/problems/sort-list) | MEDIUM | 1 | 1 |
 | 2024-01-18 10:12 | [#189 轮转数组](https://leetcode.cn/problems/rotate-array) | MEDIUM | 1 | 1 |
-| 2024-01-08 20:52 | [#82 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii) | MEDIUM | 1 | 1 |
 | 2024-01-03 10:27 | [#150 逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation) | MEDIUM | 1 | 1 |
 | 2024-01-03 09:58 | [#209 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum) | MEDIUM | 4 | 1 |
 | 2024-01-03 09:18 | [#15 三数之和](https://leetcode.cn/problems/3sum) | MEDIUM | 7 | **3** |
