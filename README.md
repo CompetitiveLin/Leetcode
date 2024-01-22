@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-01-22 11:10 | [#670 最大交换](https://leetcode.cn/problems/maximum-swap) | MEDIUM | 13 | **2** |
 | 2024-01-20 15:18 | [#82 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii) | MEDIUM | 3 | **2** |
 | 2024-01-20 13:17 | [#373 查找和最小的 K 对数字](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums) | MEDIUM | 3 | **2** |
 | 2024-01-19 16:19 | [#56 合并区间](https://leetcode.cn/problems/merge-intervals) | MEDIUM | 4 | **2** |
@@ -248,7 +249,6 @@
 | 2022-09-26 15:21 | [#788 旋转数字](https://leetcode.cn/problems/rotated-digits) | MEDIUM | 1 | 1 |
 | 2022-09-22 09:45 | [#1640 能否连接形成数组](https://leetcode.cn/problems/check-array-formation-through-concatenation) | EASY | 3 | 1 |
 | 2022-09-13 15:55 | [#1608 特殊数组的特征值](https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x) | EASY | 7 | 1 |
-| 2022-09-13 15:06 | [#670 最大交换](https://leetcode.cn/problems/maximum-swap) | MEDIUM | 7 | 1 |
 | 2022-09-09 15:29 | [#1598 文件夹操作日志搜集器](https://leetcode.cn/problems/crawler-log-folder) | EASY | 3 | 1 |
 | 2022-09-01 13:48 | [#1475 商品折扣后的最终价格](https://leetcode.cn/problems/final-prices-with-a-special-discount-in-a-shop) | EASY | 1 | 1 |
 | 2022-08-31 13:22 | [#946 验证栈序列](https://leetcode.cn/problems/validate-stack-sequences) | MEDIUM | 2 | 1 |
