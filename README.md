@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-01-23 09:27 | [#77 组合](https://leetcode.cn/problems/combinations) | MEDIUM | 2 | 1 |
 | 2024-01-22 11:10 | [#670 最大交换](https://leetcode.cn/problems/maximum-swap) | MEDIUM | 13 | **2** |
 | 2024-01-20 15:18 | [#82 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii) | MEDIUM | 3 | **2** |
 | 2024-01-20 13:17 | [#373 查找和最小的 K 对数字](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums) | MEDIUM | 3 | **2** |
