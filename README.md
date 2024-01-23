@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-01-23 12:13 | [#39 组合总和](https://leetcode.cn/problems/combination-sum) | MEDIUM | 2 | **2** |
 | 2024-01-23 09:27 | [#77 组合](https://leetcode.cn/problems/combinations) | MEDIUM | 2 | 1 |
 | 2024-01-22 11:10 | [#670 最大交换](https://leetcode.cn/problems/maximum-swap) | MEDIUM | 13 | **2** |
 | 2024-01-20 15:18 | [#82 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii) | MEDIUM | 3 | **2** |
@@ -359,7 +360,6 @@
 | 2021-08-03 13:57 | [#581 最短无序连续子数组](https://leetcode.cn/problems/shortest-unsorted-continuous-subarray) | MEDIUM | 8 | 1 |
 | 2021-07-30 19:34 | [#171 Excel 表列序号](https://leetcode.cn/problems/excel-sheet-column-number) | EASY | 5 | 1 |
 | 2021-07-13 09:53 | [#40 组合总和 II](https://leetcode.cn/problems/combination-sum-ii) | MEDIUM | 3 | 1 |
-| 2021-07-13 09:16 | [#39 组合总和](https://leetcode.cn/problems/combination-sum) | MEDIUM | 1 | 1 |
 | 2021-07-12 19:52 | [#714 买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | MEDIUM | 1 | 1 |
 | 2021-07-12 18:59 | [#740 删除并获得点数](https://leetcode.cn/problems/delete-and-earn) | MEDIUM | 1 | 1 |
 | 2021-07-06 16:21 | [#746 使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs) | EASY | 1 | 1 |
