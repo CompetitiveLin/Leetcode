@@ -26,6 +26,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-01-23 16:34 | [#25 K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group) | HARD | 1 | 1 |
+| 2024-01-23 15:55 | [#236 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree) | MEDIUM | 2 | 1 |
 | 2024-01-23 12:13 | [#39 组合总和](https://leetcode.cn/problems/combination-sum) | MEDIUM | 2 | **2** |
 | 2024-01-23 09:27 | [#77 组合](https://leetcode.cn/problems/combinations) | MEDIUM | 2 | 1 |
 | 2024-01-22 11:10 | [#670 最大交换](https://leetcode.cn/problems/maximum-swap) | MEDIUM | 13 | **2** |
