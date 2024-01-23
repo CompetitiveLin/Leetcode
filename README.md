@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-01-23 20:59 | [#300 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence) | MEDIUM | 4 | **2** |
 | 2024-01-23 16:34 | [#25 K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group) | HARD | 1 | 1 |
 | 2024-01-23 15:55 | [#236 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree) | MEDIUM | 2 | 1 |
 | 2024-01-23 12:13 | [#39 组合总和](https://leetcode.cn/problems/combination-sum) | MEDIUM | 2 | **2** |
@@ -127,7 +128,6 @@
 | 2023-04-03 22:13 | [#1053 交换一次的先前排列](https://leetcode.cn/problems/previous-permutation-with-one-swap) | MEDIUM | 4 | 1 |
 | 2023-03-30 20:02 | [#1637 两点之间不包含任何点的最宽垂直区域](https://leetcode.cn/problems/widest-vertical-area-between-two-points-containing-no-points) | EASY | 2 | 1 |
 | 2023-03-29 23:55 | [#1641 统计字典序元音字符串的数目](https://leetcode.cn/problems/count-sorted-vowel-strings) | MEDIUM | 1 | 1 |
-| 2023-03-22 20:57 | [#300 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence) | MEDIUM | 3 | 1 |
 | 2023-03-22 19:50 | [#1626 无矛盾的最佳球队](https://leetcode.cn/problems/best-team-with-no-conflicts) | MEDIUM | 5 | 1 |
 | 2023-03-21 19:16 | [#62 不同路径](https://leetcode.cn/problems/unique-paths) | MEDIUM | 2 | 1 |
 | 2023-03-18 11:47 | [#1616 分割两个字符串得到回文串](https://leetcode.cn/problems/split-two-strings-to-make-palindrome) | MEDIUM | 5 | 1 |
