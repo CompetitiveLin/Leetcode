@@ -353,7 +353,7 @@
 | 2022-03-22 12:43 | [#2038 如果相邻两个颜色均相同则删除当前颜色](https://leetcode.cn/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) | MEDIUM | 3 | 1 |
 | 2022-03-21 15:27 | [#653 两数之和 IV - 输入二叉搜索树](https://leetcode.cn/problems/two-sum-iv-input-is-a-bst) | EASY | 1 | 1 |
 | 2022-03-20 15:10 | [#2039 网络空闲的时刻](https://leetcode.cn/problems/the-time-when-the-network-becomes-idle) | MEDIUM | 1 | 1 |
-| 2022-03-19 15:00 | [#606 根据二叉树创建字符串](https://leetcode.cn/problems/construct-string-from-binary-tree) | EASY | 3 | 1 |
+| 2022-03-19 15:00 | [#606 根据二叉树创建字符串](https://leetcode.cn/problems/construct-string-from-binary-tree) | MEDIUM | 3 | 1 |
 | 2022-03-18 12:11 | [#2043 简易银行系统](https://leetcode.cn/problems/simple-bank-system) | MEDIUM | 1 | 1 |
 | 2022-03-17 14:57 | [#720 词典中最长的单词](https://leetcode.cn/problems/longest-word-in-dictionary) | MEDIUM | 8 | 1 |
 | 2022-03-16 19:29 | [#432 全 O(1) 的数据结构](https://leetcode.cn/problems/all-oone-data-structure) | HARD | 4 | 1 |
