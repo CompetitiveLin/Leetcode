@@ -26,6 +26,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-01-26 15:56 | [#91 解码方法](https://leetcode.cn/problems/decode-ways) | MEDIUM | 2 | 1 |
+| 2024-01-26 10:13 | [#235 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree) | MEDIUM | 3 | 1 |
 | 2024-01-24 11:25 | [#274 H 指数](https://leetcode.cn/problems/h-index) | MEDIUM | 3 | 1 |
 | 2024-01-23 22:15 | [#26 删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array) | EASY | 2 | 1 |
 | 2024-01-23 22:05 | [#80 删除有序数组中的重复项 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 1 | 1 |
