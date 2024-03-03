@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-03-03 09:49 | [#225 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues) | EASY | 1 | 1 |
 | 2024-02-09 10:42 | [#236 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree) | MEDIUM | 3 | **2** |
 | 2024-01-26 15:56 | [#91 解码方法](https://leetcode.cn/problems/decode-ways) | MEDIUM | 2 | 1 |
 | 2024-01-26 10:13 | [#235 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree) | MEDIUM | 3 | 1 |
