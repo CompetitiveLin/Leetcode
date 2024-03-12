@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-03-12 18:00 | [#1261 在受污染的二叉树中查找元素](https://leetcode.cn/problems/find-elements-in-a-contaminated-binary-tree) | MEDIUM | 1 | 1 |
 | 2024-03-10 10:17 | [#299 猜数字游戏](https://leetcode.cn/problems/bulls-and-cows) | MEDIUM | 2 | 1 |
 | 2024-03-03 11:41 | [#225 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues) | EASY | 3 | 1 |
 | 2024-02-09 10:42 | [#236 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree) | MEDIUM | 3 | **2** |
