@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-04-18 14:51 | [#525 连续数组](https://leetcode.cn/problems/contiguous-array) | MEDIUM | 1 | 1 |
 | 2024-03-31 14:08 | [#424 替换后的最长重复字符](https://leetcode.cn/problems/longest-repeating-character-replacement) | MEDIUM | 2 | 1 |
 | 2024-03-23 16:02 | [#1471 数组中的 k 个最强值](https://leetcode.cn/problems/the-k-strongest-values-in-an-array) | MEDIUM | 1 | 1 |
 | 2024-03-19 19:39 | [#1838 最高频元素的频数](https://leetcode.cn/problems/frequency-of-the-most-frequent-element) | MEDIUM | 1 | 1 |
