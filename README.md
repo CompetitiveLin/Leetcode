@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-06-15 14:12 | [#2779 数组的最大美丽值](https://leetcode.cn/problems/maximum-beauty-of-an-array-after-applying-operation) | MEDIUM | 4 | 1 |
 | 2024-06-14 21:37 | [#2786 访问数组中的位置使分数最大](https://leetcode.cn/problems/visit-array-positions-to-maximize-score) | MEDIUM | 2 | 1 |
 | 2024-05-26 15:35 | [#189 轮转数组](https://leetcode.cn/problems/rotate-array) | MEDIUM | 3 | **2** |
 | 2024-05-06 11:57 | [#382 链表随机节点](https://leetcode.cn/problems/linked-list-random-node) | MEDIUM | 3 | 1 |
