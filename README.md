@@ -83,6 +83,7 @@
 | 2023-12-01 15:34 | [#287 寻找重复数](https://leetcode.cn/problems/find-the-duplicate-number) | MEDIUM | 1 | 1 |
 | 2023-12-01 14:44 | [#2661 找出叠涂元素](https://leetcode.cn/problems/first-completely-painted-row-or-column) | MEDIUM | 3 | 1 |
 | 2023-11-25 16:27 | [#92 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii) | MEDIUM | 2 | **2** |
+| 2023-11-25 15:33 | [#138 随机链表的复制](https://leetcode.cn/problems/copy-list-with-random-pointer) | MEDIUM | 2 | 1 |
 | 2023-11-13 20:11 | [#307 区域和检索 - 数组可修改](https://leetcode.cn/problems/range-sum-query-mutable) | MEDIUM | 4 | **3** |
 | 2023-11-13 15:25 | [#1234 替换子串得到平衡字符串](https://leetcode.cn/problems/replace-the-substring-for-balanced-string) | MEDIUM | 2 | 1 |
 | 2023-11-10 22:06 | [#114 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 2 | **2** |
@@ -317,6 +318,8 @@
 | 2022-05-12 21:36 | [#944 删列造序](https://leetcode.cn/problems/delete-columns-to-make-sorted) | EASY | 2 | 1 |
 | 2022-05-10 15:12 | [#210 课程表 II](https://leetcode.cn/problems/course-schedule-ii) | MEDIUM | 2 | 1 |
 | 2022-05-09 14:49 | [#107 二叉树的层序遍历 II](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii) | MEDIUM | 2 | 1 |
+| 2022-05-09 14:35 | [#117 填充每个节点的下一个右侧节点指针 II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii) | MEDIUM | 1 | 1 |
+| 2022-05-09 14:32 | [#116 填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node) | MEDIUM | 2 | 1 |
 | 2022-05-09 13:49 | [#942 增减字符串匹配](https://leetcode.cn/problems/di-string-match) | EASY | 1 | 1 |
 | 2022-05-08 10:22 | [#442 数组中重复的数据](https://leetcode.cn/problems/find-all-duplicates-in-an-array) | MEDIUM | 1 | 1 |
 | 2022-05-07 20:21 | [#207 课程表](https://leetcode.cn/problems/course-schedule) | MEDIUM | 2 | 1 |
@@ -330,6 +333,7 @@
 | 2022-05-02 14:17 | [#796 旋转字符串](https://leetcode.cn/problems/rotate-string) | EASY | 4 | **2** |
 | 2022-05-01 17:59 | [#1305 两棵二叉搜索树中的所有元素](https://leetcode.cn/problems/all-elements-in-two-binary-search-trees) | MEDIUM | 3 | 1 |
 | 2022-04-30 14:28 | [#908 最小差值 I](https://leetcode.cn/problems/smallest-range-i) | EASY | 6 | 1 |
+| 2022-04-29 15:45 | [#427 建立四叉树](https://leetcode.cn/problems/construct-quad-tree) | MEDIUM | 1 | 1 |
 | 2022-04-28 12:36 | [#905 按奇偶排序数组](https://leetcode.cn/problems/sort-array-by-parity) | EASY | 2 | 1 |
 | 2022-04-26 19:39 | [#883 三维形体投影面积](https://leetcode.cn/problems/projection-area-of-3d-shapes) | EASY | 2 | 1 |
 | 2022-04-25 12:52 | [#398 随机数索引](https://leetcode.cn/problems/random-pick-index) | MEDIUM | 2 | 1 |
@@ -348,6 +352,7 @@
 | 2022-04-11 15:05 | [#357 统计各位数字都不同的数字个数](https://leetcode.cn/problems/count-numbers-with-unique-digits) | MEDIUM | 1 | 1 |
 | 2022-04-10 12:27 | [#804 唯一摩尔斯密码词](https://leetcode.cn/problems/unique-morse-code-words) | EASY | 1 | 1 |
 | 2022-04-09 18:33 | [#780 到达终点](https://leetcode.cn/problems/reaching-points) | HARD | 6 | 1 |
+| 2022-04-08 11:24 | [#429 N 叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal) | MEDIUM | 2 | 1 |
 | 2022-04-06 14:13 | [#310 最小高度树](https://leetcode.cn/problems/minimum-height-trees) | MEDIUM | 1 | 1 |
 | 2022-04-05 15:42 | [#762 二进制表示中质数个计算置位](https://leetcode.cn/problems/prime-number-of-set-bits-in-binary-representation) | EASY | 3 | 1 |
 | 2022-04-03 20:29 | [#744 寻找比目标字母大的最小字母](https://leetcode.cn/problems/find-smallest-letter-greater-than-target) | EASY | 8 | 1 |
@@ -372,6 +377,7 @@
 | 2022-03-15 15:21 | [#2044 统计按位或能得到最大值的子集数目](https://leetcode.cn/problems/count-number-of-maximum-bitwise-or-subsets) | MEDIUM | 6 | 1 |
 | 2022-03-14 11:27 | [#599 两个列表的最小索引总和](https://leetcode.cn/problems/minimum-index-sum-of-two-lists) | EASY | 2 | 1 |
 | 2022-03-13 16:05 | [#393 UTF-8 编码验证](https://leetcode.cn/problems/utf-8-validation) | MEDIUM | 10 | 1 |
+| 2022-03-12 13:21 | [#590 N 叉树的后序遍历](https://leetcode.cn/problems/n-ary-tree-postorder-traversal) | EASY | 1 | 1 |
 | 2021-09-14 15:09 | [#524 通过删除字母匹配到字典里最长单词](https://leetcode.cn/problems/longest-word-in-dictionary-through-deleting) | MEDIUM | 3 | 1 |
 | 2021-08-03 13:57 | [#581 最短无序连续子数组](https://leetcode.cn/problems/shortest-unsorted-continuous-subarray) | MEDIUM | 8 | 1 |
 | 2021-07-30 19:34 | [#171 Excel 表列序号](https://leetcode.cn/problems/excel-sheet-column-number) | EASY | 5 | 1 |
