@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-06-23 19:20 | [#122 买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii) | MEDIUM | 2 | **2** |
 | 2024-06-23 15:47 | [#31 下一个排列](https://leetcode.cn/problems/next-permutation) | MEDIUM | 6 | **3** |
 | 2024-06-16 13:51 | [#22 括号生成](https://leetcode.cn/problems/generate-parentheses) | MEDIUM | 3 | **3** |
 | 2024-06-15 15:46 | [#300 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence) | MEDIUM | 5 | **3** |
@@ -97,7 +98,6 @@
 | 2023-10-23 19:28 | [#141 环形链表](https://leetcode.cn/problems/linked-list-cycle) | EASY | 2 | 1 |
 | 2023-10-11 10:11 | [#2512 奖励最顶尖的 K 名学生](https://leetcode.cn/problems/reward-top-k-students) | MEDIUM | 1 | 1 |
 | 2023-10-05 19:53 | [#309 买卖股票的最佳时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown) | MEDIUM | 1 | 1 |
-| 2023-10-05 18:14 | [#122 买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii) | MEDIUM | 1 | 1 |
 | 2023-10-05 17:54 | [#121 买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock) | EASY | 1 | 1 |
 | 2023-09-25 22:38 | [#146 LRU 缓存](https://leetcode.cn/problems/lru-cache) | MEDIUM | 1 | 1 |
 | 2023-09-21 15:14 | [#155 最小栈](https://leetcode.cn/problems/min-stack) | MEDIUM | 3 | 1 |
