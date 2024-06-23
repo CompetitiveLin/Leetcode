@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-06-23 15:47 | [#31 下一个排列](https://leetcode.cn/problems/next-permutation) | MEDIUM | 6 | **3** |
 | 2024-06-16 13:51 | [#22 括号生成](https://leetcode.cn/problems/generate-parentheses) | MEDIUM | 3 | **3** |
 | 2024-06-15 15:46 | [#300 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence) | MEDIUM | 5 | **3** |
 | 2024-06-15 14:12 | [#2779 数组的最大美丽值](https://leetcode.cn/problems/maximum-beauty-of-an-array-after-applying-operation) | MEDIUM | 4 | 1 |
@@ -107,7 +108,6 @@
 | 2023-09-14 20:00 | [#75 颜色分类](https://leetcode.cn/problems/sort-colors) | MEDIUM | 3 | 1 |
 | 2023-09-13 20:18 | [#763 划分字母区间](https://leetcode.cn/problems/partition-labels) | MEDIUM | 1 | 1 |
 | 2023-09-12 20:12 | [#438 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string) | MEDIUM | 1 | 1 |
-| 2023-09-11 20:06 | [#31 下一个排列](https://leetcode.cn/problems/next-permutation) | MEDIUM | 4 | **2** |
 | 2023-09-10 12:15 | [#2594 修车的最少时间](https://leetcode.cn/problems/minimum-time-to-repair-cars) | MEDIUM | 4 | 1 |
 | 2023-09-01 09:45 | [#2240 买钢笔和铅笔的方案数](https://leetcode.cn/problems/number-of-ways-to-buy-pens-and-pencils) | MEDIUM | 3 | 1 |
 | 2023-08-28 19:16 | [#57 插入区间](https://leetcode.cn/problems/insert-interval) | MEDIUM | 1 | 1 |
