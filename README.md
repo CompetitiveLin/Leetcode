@@ -26,9 +26,12 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2024-06-23 19:20 | [#122 买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii) | MEDIUM | 2 | **2** |
+| 2024-07-06 12:53 | [#39 组合总和](https://leetcode.cn/problems/combination-sum) | MEDIUM | 3 | **3** |
+| 2024-07-06 10:28 | [#22 括号生成](https://leetcode.cn/problems/generate-parentheses) | MEDIUM | 4 | **4** |
+| 2024-07-06 09:50 | [#3101 交替子数组计数](https://leetcode.cn/problems/count-alternating-subarrays) | MEDIUM | 2 | 1 |
+| 2024-06-29 20:52 | [#416 分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum) | MEDIUM | 6 | **2** |
+| 2024-06-29 19:50 | [#122 买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii) | MEDIUM | 3 | **3** |
 | 2024-06-23 15:47 | [#31 下一个排列](https://leetcode.cn/problems/next-permutation) | MEDIUM | 6 | **3** |
-| 2024-06-16 13:51 | [#22 括号生成](https://leetcode.cn/problems/generate-parentheses) | MEDIUM | 3 | **3** |
 | 2024-06-15 15:46 | [#300 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence) | MEDIUM | 5 | **3** |
 | 2024-06-15 14:12 | [#2779 数组的最大美丽值](https://leetcode.cn/problems/maximum-beauty-of-an-array-after-applying-operation) | MEDIUM | 4 | 1 |
 | 2024-06-14 21:37 | [#2786 访问数组中的位置使分数最大](https://leetcode.cn/problems/visit-array-positions-to-maximize-score) | MEDIUM | 2 | 1 |
@@ -52,14 +55,12 @@
 | 2024-01-23 22:15 | [#26 删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array) | EASY | 2 | 1 |
 | 2024-01-23 22:05 | [#80 删除有序数组中的重复项 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 1 | 1 |
 | 2024-01-23 16:34 | [#25 K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group) | HARD | 1 | 1 |
-| 2024-01-23 12:13 | [#39 组合总和](https://leetcode.cn/problems/combination-sum) | MEDIUM | 2 | **2** |
 | 2024-01-23 09:27 | [#77 组合](https://leetcode.cn/problems/combinations) | MEDIUM | 2 | 1 |
 | 2024-01-22 11:10 | [#670 最大交换](https://leetcode.cn/problems/maximum-swap) | MEDIUM | 13 | **2** |
 | 2024-01-20 15:18 | [#82 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii) | MEDIUM | 3 | **2** |
 | 2024-01-20 13:17 | [#373 查找和最小的 K 对数字](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums) | MEDIUM | 3 | **2** |
 | 2024-01-19 16:19 | [#56 合并区间](https://leetcode.cn/problems/merge-intervals) | MEDIUM | 4 | **2** |
 | 2024-01-18 15:29 | [#494 目标和](https://leetcode.cn/problems/target-sum) | MEDIUM | 2 | **2** |
-| 2024-01-18 14:02 | [#416 分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum) | MEDIUM | 1 | 1 |
 | 2024-01-18 10:52 | [#148 排序链表](https://leetcode.cn/problems/sort-list) | MEDIUM | 1 | 1 |
 | 2024-01-03 10:27 | [#150 逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation) | MEDIUM | 1 | 1 |
 | 2024-01-03 09:58 | [#209 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum) | MEDIUM | 4 | 1 |
