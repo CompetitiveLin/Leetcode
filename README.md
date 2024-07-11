@@ -26,6 +26,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-07-11 19:56 | [#151 反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string) | MEDIUM | 3 | **2** |
+| 2024-07-11 19:16 | [#150 逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation) | MEDIUM | 2 | **2** |
+| 2024-07-11 15:22 | [#6 Z 字形变换](https://leetcode.cn/problems/zigzag-conversion) | MEDIUM | 1 | 1 |
 | 2024-07-10 20:08 | [#14 最长公共前缀](https://leetcode.cn/problems/longest-common-prefix) | EASY | 10 | 1 |
 | 2024-07-10 13:27 | [#11 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water) | MEDIUM | 9 | **3** |
 | 2024-07-06 12:53 | [#39 组合总和](https://leetcode.cn/problems/combination-sum) | MEDIUM | 3 | **3** |
@@ -64,7 +67,6 @@
 | 2024-01-19 16:19 | [#56 合并区间](https://leetcode.cn/problems/merge-intervals) | MEDIUM | 4 | **2** |
 | 2024-01-18 15:29 | [#494 目标和](https://leetcode.cn/problems/target-sum) | MEDIUM | 2 | **2** |
 | 2024-01-18 10:52 | [#148 排序链表](https://leetcode.cn/problems/sort-list) | MEDIUM | 1 | 1 |
-| 2024-01-03 10:27 | [#150 逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation) | MEDIUM | 1 | 1 |
 | 2024-01-03 09:58 | [#209 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum) | MEDIUM | 4 | 1 |
 | 2024-01-03 09:18 | [#15 三数之和](https://leetcode.cn/problems/3sum) | MEDIUM | 7 | **3** |
 | 2023-12-29 16:24 | [#322 零钱兑换](https://leetcode.cn/problems/coin-change) | MEDIUM | 1 | 1 |
@@ -91,7 +93,6 @@
 | 2023-11-13 20:11 | [#307 区域和检索 - 数组可修改](https://leetcode.cn/problems/range-sum-query-mutable) | MEDIUM | 4 | **3** |
 | 2023-11-13 15:25 | [#1234 替换子串得到平衡字符串](https://leetcode.cn/problems/replace-the-substring-for-balanced-string) | MEDIUM | 2 | 1 |
 | 2023-11-10 22:06 | [#114 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 2 | **2** |
-| 2023-11-09 15:01 | [#151 反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string) | MEDIUM | 2 | 1 |
 | 2023-11-04 16:08 | [#47 全排列 II](https://leetcode.cn/problems/permutations-ii) | MEDIUM | 5 | **4** |
 | 2023-11-04 15:45 | [#46 全排列](https://leetcode.cn/problems/permutations) | MEDIUM | 7 | **5** |
 | 2023-11-02 10:23 | [#153 寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array) | MEDIUM | 1 | 1 |
