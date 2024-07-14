@@ -26,6 +26,10 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-07-14 11:01 | [#102 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal) | MEDIUM | 4 | **2** |
+| 2024-07-14 10:40 | [#23 合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists) | HARD | 7 | **2** |
+| 2024-07-13 22:05 | [#24 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs) | MEDIUM | 7 | **2** |
+| 2024-07-13 21:33 | [#19 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list) | MEDIUM | 8 | **3** |
 | 2024-07-11 23:09 | [#560 和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k) | MEDIUM | 3 | **2** |
 | 2024-07-11 20:51 | [#56 合并区间](https://leetcode.cn/problems/merge-intervals) | MEDIUM | 6 | **3** |
 | 2024-07-11 20:38 | [#155 最小栈](https://leetcode.cn/problems/min-stack) | MEDIUM | 4 | **2** |
@@ -189,9 +193,7 @@
 | 2022-12-16 12:06 | [#1785 构成特定和需要添加的最少元素](https://leetcode.cn/problems/minimum-elements-to-add-to-form-a-given-sum) | MEDIUM | 2 | 1 |
 | 2022-12-15 20:52 | [#21 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists) | EASY | 1 | 1 |
 | 2022-12-15 20:42 | [#LCR 142 训练计划 IV](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof) | EASY | 1 | 1 |
-| 2022-12-15 20:23 | [#23 合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists) | HARD | 4 | 1 |
 | 2022-12-15 11:18 | [#1945 字符串转化后的各位数字之和](https://leetcode.cn/problems/sum-of-digits-of-string-after-convert) | EASY | 3 | 1 |
-| 2022-12-13 12:34 | [#24 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs) | MEDIUM | 4 | 1 |
 | 2022-12-13 11:30 | [#1832 判断句子是否为全字母句](https://leetcode.cn/problems/check-if-the-sentence-is-pangram) | EASY | 1 | 1 |
 | 2022-12-12 16:15 | [#1781 所有子字符串美丽值之和](https://leetcode.cn/problems/sum-of-beauty-of-all-substrings) | MEDIUM | 1 | 1 |
 | 2022-12-11 16:13 | [#1827 最少操作使数组递增](https://leetcode.cn/problems/minimum-operations-to-make-the-array-increasing) | EASY | 1 | 1 |
@@ -212,7 +214,6 @@
 | 2022-11-26 18:56 | [#787 K 站中转内最便宜的航班](https://leetcode.cn/problems/cheapest-flights-within-k-stops) | MEDIUM | 6 | **2** |
 | 2022-11-26 16:01 | [#882 细分图中的可到达节点](https://leetcode.cn/problems/reachable-nodes-in-subdivided-graph) | HARD | 2 | 1 |
 | 2022-11-26 13:52 | [#809 情感丰富的文字](https://leetcode.cn/problems/expressive-words) | MEDIUM | 2 | 1 |
-| 2022-11-24 16:25 | [#19 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list) | MEDIUM | 6 | **2** |
 | 2022-11-24 15:52 | [#1668 最大重复子字符串](https://leetcode.cn/problems/maximum-repeating-substring) | EASY | 4 | **2** |
 | 2022-11-24 15:03 | [#795 区间子数组个数](https://leetcode.cn/problems/number-of-subarrays-with-bounded-maximum) | MEDIUM | 3 | 1 |
 | 2022-11-23 21:31 | [#878 第 N 个神奇数字](https://leetcode.cn/problems/nth-magical-number) | HARD | 9 | **2** |
@@ -316,7 +317,6 @@
 | 2022-05-17 11:08 | [#953 验证外星语词典](https://leetcode.cn/problems/verifying-an-alien-dictionary) | EASY | 2 | 1 |
 | 2022-05-16 16:08 | [#面试题 04.06 后继者](https://leetcode.cn/problems/successor-lcci) | MEDIUM | 5 | 1 |
 | 2022-05-15 14:35 | [#812 最大三角形面积](https://leetcode.cn/problems/largest-triangle-area) | EASY | 4 | 1 |
-| 2022-05-13 22:09 | [#102 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal) | MEDIUM | 3 | 1 |
 | 2022-05-13 13:28 | [#面试题 01.05 一次编辑](https://leetcode.cn/problems/one-away-lcci) | MEDIUM | 3 | 1 |
 | 2022-05-12 21:36 | [#944 删列造序](https://leetcode.cn/problems/delete-columns-to-make-sorted) | EASY | 2 | 1 |
 | 2022-05-10 15:12 | [#210 课程表 II](https://leetcode.cn/problems/course-schedule-ii) | MEDIUM | 2 | 1 |
