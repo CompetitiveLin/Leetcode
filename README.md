@@ -26,6 +26,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-07-27 12:36 | [#264 丑数 II](https://leetcode.cn/problems/ugly-number-ii) | MEDIUM | 3 | **2** |
+| 2024-07-27 12:17 | [#279 完全平方数](https://leetcode.cn/problems/perfect-squares) | MEDIUM | 3 | **2** |
 | 2024-07-27 11:43 | [#416 分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum) | MEDIUM | 7 | **3** |
 | 2024-07-26 16:54 | [#494 目标和](https://leetcode.cn/problems/target-sum) | MEDIUM | 3 | **3** |
 | 2024-07-26 15:28 | [#322 零钱兑换](https://leetcode.cn/problems/coin-change) | MEDIUM | 8 | **3** |
@@ -96,7 +98,6 @@
 | 2024-01-03 09:18 | [#15 三数之和](https://leetcode.cn/problems/3sum) | MEDIUM | 7 | **3** |
 | 2023-12-29 15:53 | [#230 二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst) | MEDIUM | 1 | 1 |
 | 2023-12-29 15:01 | [#78 子集](https://leetcode.cn/problems/subsets) | MEDIUM | 2 | 1 |
-| 2023-12-28 17:12 | [#279 完全平方数](https://leetcode.cn/problems/perfect-squares) | MEDIUM | 2 | 1 |
 | 2023-12-26 22:24 | [#1143 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence) | MEDIUM | 2 | 1 |
 | 2023-12-24 12:30 | [#567 字符串的排列](https://leetcode.cn/problems/permutation-in-string) | MEDIUM | 3 | 1 |
 | 2023-12-23 10:30 | [#1962 移除石子使总数最小](https://leetcode.cn/problems/remove-stones-to-minimize-the-total) | MEDIUM | 1 | 1 |
@@ -183,7 +184,6 @@
 | 2023-02-09 17:45 | [#1797 设计一个验证系统](https://leetcode.cn/problems/design-authentication-manager) | MEDIUM | 2 | 1 |
 | 2023-02-08 14:28 | [#1233 删除子文件夹](https://leetcode.cn/problems/remove-sub-folders-from-the-filesystem) | MEDIUM | 1 | 1 |
 | 2023-01-30 19:28 | [#1669 合并两个链表](https://leetcode.cn/problems/merge-in-between-linked-lists) | MEDIUM | 2 | 1 |
-| 2023-01-29 16:50 | [#264 丑数 II](https://leetcode.cn/problems/ugly-number-ii) | MEDIUM | 2 | 1 |
 | 2023-01-28 14:37 | [#1664 生成平衡数组的方案数](https://leetcode.cn/problems/ways-to-make-a-fair-array) | MEDIUM | 2 | 1 |
 | 2023-01-27 20:38 | [#503 下一个更大元素 II](https://leetcode.cn/problems/next-greater-element-ii) | MEDIUM | 3 | 1 |
 | 2023-01-27 19:53 | [#42 接雨水](https://leetcode.cn/problems/trapping-rain-water) | HARD | 2 | 1 |
