@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-07-27 11:43 | [#416 分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum) | MEDIUM | 7 | **3** |
 | 2024-07-26 16:54 | [#494 目标和](https://leetcode.cn/problems/target-sum) | MEDIUM | 3 | **3** |
 | 2024-07-26 15:28 | [#322 零钱兑换](https://leetcode.cn/problems/coin-change) | MEDIUM | 8 | **3** |
 | 2024-07-26 15:10 | [#474 一和零](https://leetcode.cn/problems/ones-and-zeroes) | MEDIUM | 1 | 1 |
@@ -62,7 +63,6 @@
 | 2024-07-06 12:53 | [#39 组合总和](https://leetcode.cn/problems/combination-sum) | MEDIUM | 3 | **3** |
 | 2024-07-06 10:28 | [#22 括号生成](https://leetcode.cn/problems/generate-parentheses) | MEDIUM | 4 | **4** |
 | 2024-07-06 09:50 | [#3101 交替子数组计数](https://leetcode.cn/problems/count-alternating-subarrays) | MEDIUM | 2 | 1 |
-| 2024-06-29 20:52 | [#416 分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum) | MEDIUM | 6 | **2** |
 | 2024-06-29 19:50 | [#122 买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii) | MEDIUM | 3 | **3** |
 | 2024-06-23 15:47 | [#31 下一个排列](https://leetcode.cn/problems/next-permutation) | MEDIUM | 6 | **3** |
 | 2024-06-15 15:46 | [#300 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence) | MEDIUM | 5 | **3** |
