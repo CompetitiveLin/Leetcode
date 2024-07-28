@@ -26,6 +26,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-07-28 20:14 | [#31 下一个排列](https://leetcode.cn/problems/next-permutation) | MEDIUM | 15 | **4** |
+| 2024-07-28 17:12 | [#21 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists) | EASY | 2 | **2** |
 | 2024-07-27 13:16 | [#518 零钱兑换 II](https://leetcode.cn/problems/coin-change-ii) | MEDIUM | 2 | 1 |
 | 2024-07-27 12:36 | [#264 丑数 II](https://leetcode.cn/problems/ugly-number-ii) | MEDIUM | 3 | **2** |
 | 2024-07-27 12:17 | [#279 完全平方数](https://leetcode.cn/problems/perfect-squares) | MEDIUM | 3 | **2** |
@@ -67,7 +69,6 @@
 | 2024-07-06 10:28 | [#22 括号生成](https://leetcode.cn/problems/generate-parentheses) | MEDIUM | 4 | **4** |
 | 2024-07-06 09:50 | [#3101 交替子数组计数](https://leetcode.cn/problems/count-alternating-subarrays) | MEDIUM | 2 | 1 |
 | 2024-06-29 19:50 | [#122 买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii) | MEDIUM | 3 | **3** |
-| 2024-06-23 15:47 | [#31 下一个排列](https://leetcode.cn/problems/next-permutation) | MEDIUM | 6 | **3** |
 | 2024-06-15 15:46 | [#300 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence) | MEDIUM | 5 | **3** |
 | 2024-06-15 14:12 | [#2779 数组的最大美丽值](https://leetcode.cn/problems/maximum-beauty-of-an-array-after-applying-operation) | MEDIUM | 4 | 1 |
 | 2024-06-14 21:37 | [#2786 访问数组中的位置使分数最大](https://leetcode.cn/problems/visit-array-positions-to-maximize-score) | MEDIUM | 2 | 1 |
@@ -202,7 +203,6 @@
 | 2022-12-18 21:25 | [#28 找出字符串中第一个匹配项的下标](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string) | EASY | 1 | 1 |
 | 2022-12-17 18:17 | [#1764 通过连接另一个数组的子数组得到一个数组](https://leetcode.cn/problems/form-array-by-concatenating-subarrays-of-another-array) | MEDIUM | 4 | 1 |
 | 2022-12-16 12:06 | [#1785 构成特定和需要添加的最少元素](https://leetcode.cn/problems/minimum-elements-to-add-to-form-a-given-sum) | MEDIUM | 2 | 1 |
-| 2022-12-15 20:52 | [#21 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists) | EASY | 1 | 1 |
 | 2022-12-15 20:42 | [#LCR 142 训练计划 IV](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof) | EASY | 1 | 1 |
 | 2022-12-15 11:18 | [#1945 字符串转化后的各位数字之和](https://leetcode.cn/problems/sum-of-digits-of-string-after-convert) | EASY | 3 | 1 |
 | 2022-12-13 11:30 | [#1832 判断句子是否为全字母句](https://leetcode.cn/problems/check-if-the-sentence-is-pangram) | EASY | 1 | 1 |
