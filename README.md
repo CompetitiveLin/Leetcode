@@ -26,6 +26,10 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-07-29 11:12 | [#142 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii) | MEDIUM | 3 | **3** |
+| 2024-07-29 09:51 | [#202 快乐数](https://leetcode.cn/problems/happy-number) | EASY | 3 | 1 |
+| 2024-07-29 09:34 | [#141 环形链表](https://leetcode.cn/problems/linked-list-cycle) | EASY | 4 | **2** |
+| 2024-07-29 09:12 | [#75 颜色分类](https://leetcode.cn/problems/sort-colors) | MEDIUM | 5 | **2** |
 | 2024-07-28 20:14 | [#31 下一个排列](https://leetcode.cn/problems/next-permutation) | MEDIUM | 15 | **4** |
 | 2024-07-28 17:12 | [#21 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists) | EASY | 2 | **2** |
 | 2024-07-27 13:16 | [#518 零钱兑换 II](https://leetcode.cn/problems/coin-change-ii) | MEDIUM | 2 | 1 |
@@ -123,13 +127,10 @@
 | 2023-11-04 15:45 | [#46 全排列](https://leetcode.cn/problems/permutations) | MEDIUM | 7 | **5** |
 | 2023-11-02 10:23 | [#153 寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array) | MEDIUM | 1 | 1 |
 | 2023-10-27 10:26 | [#1465 切割后面积最大的蛋糕](https://leetcode.cn/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) | MEDIUM | 2 | 1 |
-| 2023-10-23 22:55 | [#142 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii) | MEDIUM | 2 | **2** |
-| 2023-10-23 19:28 | [#141 环形链表](https://leetcode.cn/problems/linked-list-cycle) | EASY | 2 | 1 |
 | 2023-10-11 10:11 | [#2512 奖励最顶尖的 K 名学生](https://leetcode.cn/problems/reward-top-k-students) | MEDIUM | 1 | 1 |
 | 2023-10-05 19:53 | [#309 买卖股票的最佳时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown) | MEDIUM | 1 | 1 |
 | 2023-10-05 17:54 | [#121 买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock) | EASY | 1 | 1 |
 | 2023-09-25 22:38 | [#146 LRU 缓存](https://leetcode.cn/problems/lru-cache) | MEDIUM | 1 | 1 |
-| 2023-09-14 20:00 | [#75 颜色分类](https://leetcode.cn/problems/sort-colors) | MEDIUM | 3 | 1 |
 | 2023-09-13 20:18 | [#763 划分字母区间](https://leetcode.cn/problems/partition-labels) | MEDIUM | 1 | 1 |
 | 2023-09-12 20:12 | [#438 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string) | MEDIUM | 1 | 1 |
 | 2023-09-10 12:15 | [#2594 修车的最少时间](https://leetcode.cn/problems/minimum-time-to-repair-cars) | MEDIUM | 4 | 1 |
