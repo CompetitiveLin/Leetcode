@@ -26,6 +26,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-07-30 22:49 | [#438 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string) | MEDIUM | 4 | **2** |
+| 2024-07-30 21:58 | [#560 和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k) | MEDIUM | 5 | **3** |
 | 2024-07-30 17:55 | [#222 完全二叉树的节点个数](https://leetcode.cn/problems/count-complete-tree-nodes) | EASY | 2 | **2** |
 | 2024-07-30 17:06 | [#49 字母异位词分组](https://leetcode.cn/problems/group-anagrams) | MEDIUM | 3 | **2** |
 | 2024-07-30 14:43 | [#62 不同路径](https://leetcode.cn/problems/unique-paths) | MEDIUM | 6 | **2** |
@@ -64,7 +66,6 @@
 | 2024-07-14 10:40 | [#23 合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists) | HARD | 7 | **2** |
 | 2024-07-13 22:05 | [#24 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs) | MEDIUM | 7 | **2** |
 | 2024-07-13 21:33 | [#19 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list) | MEDIUM | 8 | **3** |
-| 2024-07-11 23:09 | [#560 和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k) | MEDIUM | 3 | **2** |
 | 2024-07-11 20:51 | [#56 合并区间](https://leetcode.cn/problems/merge-intervals) | MEDIUM | 6 | **3** |
 | 2024-07-11 20:38 | [#155 最小栈](https://leetcode.cn/problems/min-stack) | MEDIUM | 4 | **2** |
 | 2024-07-11 19:56 | [#151 反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string) | MEDIUM | 3 | **2** |
@@ -135,7 +136,6 @@
 | 2023-10-05 17:54 | [#121 买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock) | EASY | 1 | 1 |
 | 2023-09-25 22:38 | [#146 LRU 缓存](https://leetcode.cn/problems/lru-cache) | MEDIUM | 1 | 1 |
 | 2023-09-13 20:18 | [#763 划分字母区间](https://leetcode.cn/problems/partition-labels) | MEDIUM | 1 | 1 |
-| 2023-09-12 20:12 | [#438 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string) | MEDIUM | 1 | 1 |
 | 2023-09-10 12:15 | [#2594 修车的最少时间](https://leetcode.cn/problems/minimum-time-to-repair-cars) | MEDIUM | 4 | 1 |
 | 2023-09-01 09:45 | [#2240 买钢笔和铅笔的方案数](https://leetcode.cn/problems/number-of-ways-to-buy-pens-and-pencils) | MEDIUM | 3 | 1 |
 | 2023-08-28 19:16 | [#57 插入区间](https://leetcode.cn/problems/insert-interval) | MEDIUM | 1 | 1 |
