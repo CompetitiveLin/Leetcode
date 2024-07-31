@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-07-31 11:05 | [#3111 覆盖所有点的最少矩形数目](https://leetcode.cn/problems/minimum-rectangles-to-cover-points) | MEDIUM | 1 | 1 |
 | 2024-07-30 22:49 | [#438 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string) | MEDIUM | 4 | **2** |
 | 2024-07-30 21:58 | [#560 和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k) | MEDIUM | 5 | **3** |
 | 2024-07-30 17:55 | [#222 完全二叉树的节点个数](https://leetcode.cn/problems/count-complete-tree-nodes) | EASY | 2 | **2** |
