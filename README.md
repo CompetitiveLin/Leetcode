@@ -26,6 +26,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-01 14:39 | [#316 去除重复字母](https://leetcode.cn/problems/remove-duplicate-letters) | MEDIUM | 2 | 1 |
+| 2024-08-01 10:04 | [#2740 找出分区值](https://leetcode.cn/problems/find-the-value-of-the-partition) | MEDIUM | 2 | 1 |
 | 2024-08-01 09:06 | [#1291 顺次数](https://leetcode.cn/problems/sequential-digits) | MEDIUM | 1 | 1 |
 | 2024-07-31 21:27 | [#423 从英文中重建数字](https://leetcode.cn/problems/reconstruct-original-digits-from-english) | MEDIUM | 1 | 1 |
 | 2024-07-31 11:05 | [#3111 覆盖所有点的最少矩形数目](https://leetcode.cn/problems/minimum-rectangles-to-cover-points) | MEDIUM | 1 | 1 |
