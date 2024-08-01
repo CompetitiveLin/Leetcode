@@ -26,6 +26,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-01 09:06 | [#1291 顺次数](https://leetcode.cn/problems/sequential-digits) | MEDIUM | 1 | 1 |
+| 2024-07-31 21:27 | [#423 从英文中重建数字](https://leetcode.cn/problems/reconstruct-original-digits-from-english) | MEDIUM | 1 | 1 |
 | 2024-07-31 11:05 | [#3111 覆盖所有点的最少矩形数目](https://leetcode.cn/problems/minimum-rectangles-to-cover-points) | MEDIUM | 1 | 1 |
 | 2024-07-30 22:49 | [#438 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string) | MEDIUM | 4 | **2** |
 | 2024-07-30 21:58 | [#560 和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k) | MEDIUM | 5 | **3** |
