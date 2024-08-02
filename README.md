@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-02 16:21 | [#146 LRU 缓存](https://leetcode.cn/problems/lru-cache) | MEDIUM | 2 | **2** |
 | 2024-08-02 15:25 | [#1046 最后一块石头的重量](https://leetcode.cn/problems/last-stone-weight) | EASY | 1 | 1 |
 | 2024-08-02 13:38 | [#92 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii) | MEDIUM | 5 | **3** |
 | 2024-08-01 14:39 | [#316 去除重复字母](https://leetcode.cn/problems/remove-duplicate-letters) | MEDIUM | 2 | 1 |
@@ -140,7 +141,6 @@
 | 2023-10-11 10:11 | [#2512 奖励最顶尖的 K 名学生](https://leetcode.cn/problems/reward-top-k-students) | MEDIUM | 1 | 1 |
 | 2023-10-05 19:53 | [#309 买卖股票的最佳时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown) | MEDIUM | 1 | 1 |
 | 2023-10-05 17:54 | [#121 买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock) | EASY | 1 | 1 |
-| 2023-09-25 22:38 | [#146 LRU 缓存](https://leetcode.cn/problems/lru-cache) | MEDIUM | 1 | 1 |
 | 2023-09-13 20:18 | [#763 划分字母区间](https://leetcode.cn/problems/partition-labels) | MEDIUM | 1 | 1 |
 | 2023-09-10 12:15 | [#2594 修车的最少时间](https://leetcode.cn/problems/minimum-time-to-repair-cars) | MEDIUM | 4 | 1 |
 | 2023-09-01 09:45 | [#2240 买钢笔和铅笔的方案数](https://leetcode.cn/problems/number-of-ways-to-buy-pens-and-pencils) | MEDIUM | 3 | 1 |
