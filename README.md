@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-02 15:25 | [#1046 最后一块石头的重量](https://leetcode.cn/problems/last-stone-weight) | EASY | 1 | 1 |
 | 2024-08-02 13:38 | [#92 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii) | MEDIUM | 5 | **3** |
 | 2024-08-01 14:39 | [#316 去除重复字母](https://leetcode.cn/problems/remove-duplicate-letters) | MEDIUM | 2 | 1 |
 | 2024-08-01 10:04 | [#2740 找出分区值](https://leetcode.cn/problems/find-the-value-of-the-partition) | MEDIUM | 2 | 1 |
