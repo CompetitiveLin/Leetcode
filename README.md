@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-03 17:11 | [#69 x 的平方根 ](https://leetcode.cn/problems/sqrtx) | EASY | 2 | 1 |
 | 2024-08-03 15:39 | [#209 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum) | MEDIUM | 5 | **2** |
 | 2024-08-03 14:54 | [#3143 正方形中的最多点数](https://leetcode.cn/problems/maximum-points-inside-the-square) | MEDIUM | 2 | 1 |
 | 2024-08-02 16:21 | [#146 LRU 缓存](https://leetcode.cn/problems/lru-cache) | MEDIUM | 2 | **2** |
