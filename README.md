@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-03 14:54 | [#3143 正方形中的最多点数](https://leetcode.cn/problems/maximum-points-inside-the-square) | MEDIUM | 2 | 1 |
 | 2024-08-02 16:21 | [#146 LRU 缓存](https://leetcode.cn/problems/lru-cache) | MEDIUM | 2 | **2** |
 | 2024-08-02 15:25 | [#1046 最后一块石头的重量](https://leetcode.cn/problems/last-stone-weight) | EASY | 1 | 1 |
 | 2024-08-02 13:38 | [#92 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii) | MEDIUM | 5 | **3** |
