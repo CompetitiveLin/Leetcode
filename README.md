@@ -26,6 +26,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-04 15:21 | [#206 反转链表](https://leetcode.cn/problems/reverse-linked-list) | EASY | 4 | **3** |
+| 2024-08-04 15:18 | [#234 回文链表](https://leetcode.cn/problems/palindrome-linked-list) | EASY | 1 | 1 |
 | 2024-08-03 17:11 | [#69 x 的平方根 ](https://leetcode.cn/problems/sqrtx) | EASY | 2 | 1 |
 | 2024-08-03 15:39 | [#209 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum) | MEDIUM | 5 | **2** |
 | 2024-08-03 14:54 | [#3143 正方形中的最多点数](https://leetcode.cn/problems/maximum-points-inside-the-square) | MEDIUM | 2 | 1 |
@@ -71,7 +73,6 @@
 | 2024-07-17 23:16 | [#128 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence) | MEDIUM | 15 | **2** |
 | 2024-07-16 20:57 | [#337 打家劫舍 III](https://leetcode.cn/problems/house-robber-iii) | MEDIUM | 5 | **3** |
 | 2024-07-15 20:07 | [#328 奇偶链表](https://leetcode.cn/problems/odd-even-linked-list) | MEDIUM | 3 | **2** |
-| 2024-07-15 17:23 | [#206 反转链表](https://leetcode.cn/problems/reverse-linked-list) | EASY | 3 | **2** |
 | 2024-07-14 21:41 | [#470 用 Rand7() 实现 Rand10()](https://leetcode.cn/problems/implement-rand10-using-rand7) | MEDIUM | 3 | 1 |
 | 2024-07-14 11:01 | [#102 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal) | MEDIUM | 4 | **2** |
 | 2024-07-14 10:40 | [#23 合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists) | HARD | 7 | **2** |
