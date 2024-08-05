@@ -26,6 +26,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-05 14:23 | [#907 子数组的最小值之和](https://leetcode.cn/problems/sum-of-subarray-minimums) | MEDIUM | 4 | 1 |
+| 2024-08-05 13:29 | [#53 最大子数组和](https://leetcode.cn/problems/maximum-subarray) | MEDIUM | 5 | **3** |
 | 2024-08-04 15:21 | [#206 反转链表](https://leetcode.cn/problems/reverse-linked-list) | EASY | 4 | **3** |
 | 2024-08-04 15:18 | [#234 回文链表](https://leetcode.cn/problems/palindrome-linked-list) | EASY | 1 | 1 |
 | 2024-08-03 17:11 | [#69 x 的平方根 ](https://leetcode.cn/problems/sqrtx) | EASY | 2 | 1 |
@@ -127,7 +129,6 @@
 | 2023-12-10 12:27 | [#1137 第 N 个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number) | EASY | 2 | **2** |
 | 2023-12-10 12:18 | [#70 爬楼梯](https://leetcode.cn/problems/climbing-stairs) | EASY | 3 | **2** |
 | 2023-12-06 11:20 | [#3 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters) | MEDIUM | 8 | **2** |
-| 2023-12-05 19:53 | [#53 最大子数组和](https://leetcode.cn/problems/maximum-subarray) | MEDIUM | 3 | **2** |
 | 2023-12-03 10:34 | [#1423 可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards) | MEDIUM | 2 | 1 |
 | 2023-12-02 13:16 | [#215 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array) | MEDIUM | 3 | **2** |
 | 2023-12-02 11:49 | [#1094 拼车](https://leetcode.cn/problems/car-pooling) | MEDIUM | 3 | 1 |
