@@ -26,6 +26,11 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-07 20:16 | [#17 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number) | MEDIUM | 4 | **2** |
+| 2024-08-07 16:41 | [#103 二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal) | MEDIUM | 1 | 1 |
+| 2024-08-07 16:24 | [#225 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues) | EASY | 4 | **2** |
+| 2024-08-07 15:51 | [#152 乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray) | MEDIUM | 6 | 1 |
+| 2024-08-07 13:54 | [#面试题 17.10 主要元素](https://leetcode.cn/problems/find-majority-element-lcci) | EASY | 3 | 1 |
 | 2024-08-05 14:23 | [#907 子数组的最小值之和](https://leetcode.cn/problems/sum-of-subarray-minimums) | MEDIUM | 4 | 1 |
 | 2024-08-05 13:29 | [#53 最大子数组和](https://leetcode.cn/problems/maximum-subarray) | MEDIUM | 5 | **3** |
 | 2024-08-04 15:21 | [#206 反转链表](https://leetcode.cn/problems/reverse-linked-list) | EASY | 4 | **3** |
@@ -105,7 +110,6 @@
 | 2024-03-15 14:19 | [#2487 从链表中移除节点](https://leetcode.cn/problems/remove-nodes-from-linked-list) | MEDIUM | 1 | 1 |
 | 2024-03-12 18:00 | [#1261 在受污染的二叉树中查找元素](https://leetcode.cn/problems/find-elements-in-a-contaminated-binary-tree) | MEDIUM | 1 | 1 |
 | 2024-03-10 10:17 | [#299 猜数字游戏](https://leetcode.cn/problems/bulls-and-cows) | MEDIUM | 2 | 1 |
-| 2024-03-03 11:41 | [#225 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues) | EASY | 3 | 1 |
 | 2024-02-09 10:42 | [#236 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree) | MEDIUM | 3 | **2** |
 | 2024-01-26 15:56 | [#91 解码方法](https://leetcode.cn/problems/decode-ways) | MEDIUM | 2 | 1 |
 | 2024-01-26 10:13 | [#235 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree) | MEDIUM | 3 | 1 |
@@ -450,4 +454,3 @@
 | 2020-07-20 14:17 | [#167 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted) | MEDIUM | 1 | 1 |
 | 2020-07-18 23:56 | [#97 交错字符串](https://leetcode.cn/problems/interleaving-string) | MEDIUM | 4 | 1 |
 | 2020-07-17 16:01 | [#35 搜索插入位置](https://leetcode.cn/problems/search-insert-position) | EASY | 7 | 1 |
-| 2020-04-22 22:11 | [#17 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number) | MEDIUM | 3 | 1 |
