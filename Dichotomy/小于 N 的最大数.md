@@ -14,7 +14,48 @@
 
 ---
 
-贪心 + 二分查找：详见注释。
+深度搜索优先：时间复杂度 `O n^len(target)`
+
+```go
+package main
+
+import (
+	"fmt"
+)
+
+var res int
+
+func main() {
+	nums := []int{2, 4, 6, 8}
+	target := 2411
+	backtrack(nums, target, 0)
+	fmt.Println(res)
+}
+
+func backtrack(nums []int, target, sum int) {
+	if sum >= target {
+		return
+	}
+	res = max(res, sum)
+	for i := range nums {
+		backtrack(nums, target, 10*sum+nums[i])
+	}
+}
+
+func max(i, j int) int {
+	if i > j {
+		return i
+	}
+	return j
+}
+
+```
+
+
+
+
+
+贪心 + 二分查找：时间复杂度 `Ologn`
 
 ```java
 package com.example.demo.test;
