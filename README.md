@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-14 11:50 | [#3152 特殊数组 II](https://leetcode.cn/problems/special-array-ii) | MEDIUM | 3 | 1 |
 | 2024-08-13 13:56 | [#200 岛屿数量](https://leetcode.cn/problems/number-of-islands) | MEDIUM | 2 | **2** |
 | 2024-08-07 20:16 | [#17 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number) | MEDIUM | 4 | **2** |
 | 2024-08-07 16:41 | [#103 二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal) | MEDIUM | 1 | 1 |
