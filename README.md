@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-14 21:23 | [#33 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array) | MEDIUM | 2 | 1 |
 | 2024-08-14 11:50 | [#3152 特殊数组 II](https://leetcode.cn/problems/special-array-ii) | MEDIUM | 3 | 1 |
 | 2024-08-13 13:56 | [#200 岛屿数量](https://leetcode.cn/problems/number-of-islands) | MEDIUM | 2 | **2** |
 | 2024-08-07 20:16 | [#17 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number) | MEDIUM | 4 | **2** |
@@ -422,7 +423,6 @@
 | 2021-07-05 13:41 | [#45 跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii) | MEDIUM | 15 | 1 |
 | 2021-07-05 12:31 | [#509 斐波那契数](https://leetcode.cn/problems/fibonacci-number) | EASY | 2 | 1 |
 | 2021-07-02 15:38 | [#1833 雪糕的最大数量](https://leetcode.cn/problems/maximum-ice-cream-bars) | MEDIUM | 4 | 1 |
-| 2021-06-15 10:56 | [#33 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array) | MEDIUM | 1 | 1 |
 | 2021-06-13 15:46 | [#278 第一个错误的版本](https://leetcode.cn/problems/first-bad-version) | EASY | 4 | 1 |
 | 2021-06-04 09:26 | [#160 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists) | EASY | 7 | 1 |
 | 2021-05-24 16:52 | [#130 被围绕的区域](https://leetcode.cn/problems/surrounded-regions) | MEDIUM | 4 | **2** |
