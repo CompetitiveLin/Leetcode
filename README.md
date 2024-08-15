@@ -26,7 +26,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2024-08-14 21:23 | [#33 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array) | MEDIUM | 2 | 1 |
+| 2024-08-15 19:27 | [#125 验证回文串](https://leetcode.cn/problems/valid-palindrome) | EASY | 2 | 1 |
+| 2024-08-15 18:56 | [#680 验证回文串 II](https://leetcode.cn/problems/valid-palindrome-ii) | EASY | 1 | 1 |
+| 2024-08-15 10:18 | [#33 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array) | MEDIUM | 6 | **2** |
 | 2024-08-14 11:50 | [#3152 特殊数组 II](https://leetcode.cn/problems/special-array-ii) | MEDIUM | 3 | 1 |
 | 2024-08-13 13:56 | [#200 岛屿数量](https://leetcode.cn/problems/number-of-islands) | MEDIUM | 2 | **2** |
 | 2024-08-07 20:16 | [#17 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number) | MEDIUM | 4 | **2** |
