@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-16 16:59 | [#面试题 17.10 主要元素](https://leetcode.cn/problems/find-majority-element-lcci) | EASY | 5 | **2** |
 | 2024-08-16 16:11 | [#135 分发糖果](https://leetcode.cn/problems/candy) | HARD | 1 | 1 |
 | 2024-08-16 14:57 | [#215 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array) | MEDIUM | 6 | **2** |
 | 2024-08-15 19:27 | [#125 验证回文串](https://leetcode.cn/problems/valid-palindrome) | EASY | 2 | 1 |
@@ -37,7 +38,6 @@
 | 2024-08-07 16:41 | [#103 二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal) | MEDIUM | 1 | 1 |
 | 2024-08-07 16:24 | [#225 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues) | EASY | 4 | **2** |
 | 2024-08-07 15:51 | [#152 乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray) | MEDIUM | 6 | 1 |
-| 2024-08-07 13:54 | [#面试题 17.10 主要元素](https://leetcode.cn/problems/find-majority-element-lcci) | EASY | 3 | 1 |
 | 2024-08-05 14:23 | [#907 子数组的最小值之和](https://leetcode.cn/problems/sum-of-subarray-minimums) | MEDIUM | 4 | 1 |
 | 2024-08-05 13:29 | [#53 最大子数组和](https://leetcode.cn/problems/maximum-subarray) | MEDIUM | 5 | **3** |
 | 2024-08-04 15:21 | [#206 反转链表](https://leetcode.cn/problems/reverse-linked-list) | EASY | 4 | **3** |
