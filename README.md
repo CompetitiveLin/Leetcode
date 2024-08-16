@@ -26,6 +26,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-16 16:11 | [#135 分发糖果](https://leetcode.cn/problems/candy) | HARD | 1 | 1 |
+| 2024-08-16 14:57 | [#215 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array) | MEDIUM | 6 | **2** |
 | 2024-08-15 19:27 | [#125 验证回文串](https://leetcode.cn/problems/valid-palindrome) | EASY | 2 | 1 |
 | 2024-08-15 18:56 | [#680 验证回文串 II](https://leetcode.cn/problems/valid-palindrome-ii) | EASY | 1 | 1 |
 | 2024-08-15 10:18 | [#33 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array) | MEDIUM | 6 | **2** |
@@ -139,7 +141,6 @@
 | 2023-12-10 12:18 | [#70 爬楼梯](https://leetcode.cn/problems/climbing-stairs) | EASY | 3 | **2** |
 | 2023-12-06 11:20 | [#3 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters) | MEDIUM | 8 | **2** |
 | 2023-12-03 10:34 | [#1423 可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards) | MEDIUM | 2 | 1 |
-| 2023-12-02 13:16 | [#215 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array) | MEDIUM | 3 | **2** |
 | 2023-12-02 11:49 | [#1094 拼车](https://leetcode.cn/problems/car-pooling) | MEDIUM | 3 | 1 |
 | 2023-12-01 15:34 | [#287 寻找重复数](https://leetcode.cn/problems/find-the-duplicate-number) | MEDIUM | 1 | 1 |
 | 2023-12-01 14:44 | [#2661 找出叠涂元素](https://leetcode.cn/problems/first-completely-painted-row-or-column) | MEDIUM | 3 | 1 |
