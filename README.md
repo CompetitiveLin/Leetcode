@@ -26,9 +26,14 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-18 15:32 | [#622 设计循环队列](https://leetcode.cn/problems/design-circular-queue) | MEDIUM | 2 | 1 |
+| 2024-08-18 15:02 | [#470 用 Rand7() 实现 Rand10()](https://leetcode.cn/problems/implement-rand10-using-rand7) | MEDIUM | 4 | 1 |
+| 2024-08-18 13:28 | [#752 打开转盘锁](https://leetcode.cn/problems/open-the-lock) | MEDIUM | 3 | 1 |
+| 2024-08-18 12:29 | [#148 排序链表](https://leetcode.cn/problems/sort-list) | MEDIUM | 2 | **2** |
+| 2024-08-18 11:57 | [#215 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array) | MEDIUM | 12 | **3** |
+| 2024-08-18 11:03 | [#3115 质数的最大距离](https://leetcode.cn/problems/maximum-prime-difference) | MEDIUM | 1 | 1 |
 | 2024-08-16 16:59 | [#面试题 17.10 主要元素](https://leetcode.cn/problems/find-majority-element-lcci) | EASY | 5 | **2** |
 | 2024-08-16 16:11 | [#135 分发糖果](https://leetcode.cn/problems/candy) | HARD | 1 | 1 |
-| 2024-08-16 14:57 | [#215 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array) | MEDIUM | 6 | **2** |
 | 2024-08-15 19:27 | [#125 验证回文串](https://leetcode.cn/problems/valid-palindrome) | EASY | 2 | 1 |
 | 2024-08-15 18:56 | [#680 验证回文串 II](https://leetcode.cn/problems/valid-palindrome-ii) | EASY | 1 | 1 |
 | 2024-08-15 10:18 | [#33 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array) | MEDIUM | 6 | **2** |
@@ -87,7 +92,6 @@
 | 2024-07-17 23:16 | [#128 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence) | MEDIUM | 15 | **2** |
 | 2024-07-16 20:57 | [#337 打家劫舍 III](https://leetcode.cn/problems/house-robber-iii) | MEDIUM | 5 | **3** |
 | 2024-07-15 20:07 | [#328 奇偶链表](https://leetcode.cn/problems/odd-even-linked-list) | MEDIUM | 3 | **2** |
-| 2024-07-14 21:41 | [#470 用 Rand7() 实现 Rand10()](https://leetcode.cn/problems/implement-rand10-using-rand7) | MEDIUM | 3 | 1 |
 | 2024-07-14 11:01 | [#102 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal) | MEDIUM | 4 | **2** |
 | 2024-07-14 10:40 | [#23 合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists) | HARD | 7 | **2** |
 | 2024-07-13 22:05 | [#24 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs) | MEDIUM | 7 | **2** |
@@ -128,7 +132,6 @@
 | 2024-01-22 11:10 | [#670 最大交换](https://leetcode.cn/problems/maximum-swap) | MEDIUM | 13 | **2** |
 | 2024-01-20 15:18 | [#82 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii) | MEDIUM | 3 | **2** |
 | 2024-01-20 13:17 | [#373 查找和最小的 K 对数字](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums) | MEDIUM | 3 | **2** |
-| 2024-01-18 10:52 | [#148 排序链表](https://leetcode.cn/problems/sort-list) | MEDIUM | 1 | 1 |
 | 2024-01-03 09:18 | [#15 三数之和](https://leetcode.cn/problems/3sum) | MEDIUM | 7 | **3** |
 | 2023-12-29 15:53 | [#230 二叉搜索树中第 K 小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst) | MEDIUM | 1 | 1 |
 | 2023-12-29 15:01 | [#78 子集](https://leetcode.cn/problems/subsets) | MEDIUM | 2 | 1 |
