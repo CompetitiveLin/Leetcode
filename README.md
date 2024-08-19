@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-19 14:46 | [#958 二叉树的完全性检验](https://leetcode.cn/problems/check-completeness-of-a-binary-tree) | MEDIUM | 1 | 1 |
 | 2024-08-18 15:32 | [#622 设计循环队列](https://leetcode.cn/problems/design-circular-queue) | MEDIUM | 2 | 1 |
 | 2024-08-18 15:02 | [#470 用 Rand7() 实现 Rand10()](https://leetcode.cn/problems/implement-rand10-using-rand7) | MEDIUM | 4 | 1 |
 | 2024-08-18 13:28 | [#752 打开转盘锁](https://leetcode.cn/problems/open-the-lock) | MEDIUM | 3 | 1 |
