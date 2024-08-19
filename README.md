@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-19 16:14 | [#695 岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island) | MEDIUM | 4 | **2** |
 | 2024-08-19 14:46 | [#958 二叉树的完全性检验](https://leetcode.cn/problems/check-completeness-of-a-binary-tree) | MEDIUM | 1 | 1 |
 | 2024-08-18 15:32 | [#622 设计循环队列](https://leetcode.cn/problems/design-circular-queue) | MEDIUM | 2 | 1 |
 | 2024-08-18 15:02 | [#470 用 Rand7() 实现 Rand10()](https://leetcode.cn/problems/implement-rand10-using-rand7) | MEDIUM | 4 | 1 |
@@ -434,7 +435,6 @@
 | 2021-06-04 09:26 | [#160 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists) | EASY | 7 | 1 |
 | 2021-05-24 16:52 | [#130 被围绕的区域](https://leetcode.cn/problems/surrounded-regions) | MEDIUM | 4 | **2** |
 | 2021-05-24 11:09 | [#547 省份数量](https://leetcode.cn/problems/number-of-provinces) | MEDIUM | 1 | 1 |
-| 2021-05-22 00:06 | [#695 岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island) | MEDIUM | 3 | 1 |
 | 2021-05-10 15:31 | [#872 叶子相似的树](https://leetcode.cn/problems/leaf-similar-trees) | EASY | 7 | 1 |
 | 2021-05-05 10:53 | [#154 寻找旋转排序数组中的最小值 II](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii) | HARD | 1 | 1 |
 | 2021-05-05 10:49 | [#LCR 128 库存管理 I](https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof) | EASY | 2 | **2** |
