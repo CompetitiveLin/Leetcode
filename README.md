@@ -26,6 +26,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-20 18:25 | [#43 字符串相乘](https://leetcode.cn/problems/multiply-strings) | MEDIUM | 1 | 1 |
+| 2024-08-20 14:57 | [#145 二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal) | EASY | 1 | 1 |
+| 2024-08-20 09:38 | [#138 随机链表的复制](https://leetcode.cn/problems/copy-list-with-random-pointer) | MEDIUM | 3 | **2** |
 | 2024-08-19 16:14 | [#695 岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island) | MEDIUM | 4 | **2** |
 | 2024-08-19 14:46 | [#958 二叉树的完全性检验](https://leetcode.cn/problems/check-completeness-of-a-binary-tree) | MEDIUM | 1 | 1 |
 | 2024-08-18 15:32 | [#622 设计循环队列](https://leetcode.cn/problems/design-circular-queue) | MEDIUM | 2 | 1 |
@@ -149,7 +152,6 @@
 | 2023-12-02 11:49 | [#1094 拼车](https://leetcode.cn/problems/car-pooling) | MEDIUM | 3 | 1 |
 | 2023-12-01 15:34 | [#287 寻找重复数](https://leetcode.cn/problems/find-the-duplicate-number) | MEDIUM | 1 | 1 |
 | 2023-12-01 14:44 | [#2661 找出叠涂元素](https://leetcode.cn/problems/first-completely-painted-row-or-column) | MEDIUM | 3 | 1 |
-| 2023-11-25 15:33 | [#138 随机链表的复制](https://leetcode.cn/problems/copy-list-with-random-pointer) | MEDIUM | 2 | 1 |
 | 2023-11-13 20:11 | [#307 区域和检索 - 数组可修改](https://leetcode.cn/problems/range-sum-query-mutable) | MEDIUM | 4 | **3** |
 | 2023-11-13 15:25 | [#1234 替换子串得到平衡字符串](https://leetcode.cn/problems/replace-the-substring-for-balanced-string) | MEDIUM | 2 | 1 |
 | 2023-11-10 22:06 | [#114 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 2 | **2** |
