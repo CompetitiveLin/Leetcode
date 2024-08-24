@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-24 14:51 | [#718 最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray) | MEDIUM | 1 | 1 |
 | 2024-08-24 10:22 | [#77 组合](https://leetcode.cn/problems/combinations) | MEDIUM | 6 | **2** |
 | 2024-08-24 09:43 | [#LCR 143 子结构判断](https://leetcode.cn/problems/shu-de-zi-jie-gou-lcof) | MEDIUM | 2 | 1 |
 | 2024-08-20 18:25 | [#43 字符串相乘](https://leetcode.cn/problems/multiply-strings) | MEDIUM | 1 | 1 |
