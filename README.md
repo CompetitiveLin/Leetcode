@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-24 09:43 | [#LCR 143 子结构判断](https://leetcode.cn/problems/shu-de-zi-jie-gou-lcof) | MEDIUM | 2 | 1 |
 | 2024-08-20 18:25 | [#43 字符串相乘](https://leetcode.cn/problems/multiply-strings) | MEDIUM | 1 | 1 |
 | 2024-08-20 14:57 | [#145 二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal) | EASY | 1 | 1 |
 | 2024-08-20 09:38 | [#138 随机链表的复制](https://leetcode.cn/problems/copy-list-with-random-pointer) | MEDIUM | 3 | **2** |
