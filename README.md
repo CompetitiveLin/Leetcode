@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-26 15:18 | [#3 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters) | MEDIUM | 10 | **3** |
 | 2024-08-24 14:51 | [#718 最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray) | MEDIUM | 1 | 1 |
 | 2024-08-24 10:22 | [#77 组合](https://leetcode.cn/problems/combinations) | MEDIUM | 6 | **2** |
 | 2024-08-24 09:43 | [#LCR 143 子结构判断](https://leetcode.cn/problems/shu-de-zi-jie-gou-lcof) | MEDIUM | 2 | 1 |
@@ -149,7 +150,6 @@
 | 2023-12-14 17:19 | [#226 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree) | EASY | 3 | 1 |
 | 2023-12-10 12:27 | [#1137 第 N 个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number) | EASY | 2 | **2** |
 | 2023-12-10 12:18 | [#70 爬楼梯](https://leetcode.cn/problems/climbing-stairs) | EASY | 3 | **2** |
-| 2023-12-06 11:20 | [#3 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters) | MEDIUM | 8 | **2** |
 | 2023-12-03 10:34 | [#1423 可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards) | MEDIUM | 2 | 1 |
 | 2023-12-02 11:49 | [#1094 拼车](https://leetcode.cn/problems/car-pooling) | MEDIUM | 3 | 1 |
 | 2023-12-01 15:34 | [#287 寻找重复数](https://leetcode.cn/problems/find-the-duplicate-number) | MEDIUM | 1 | 1 |
