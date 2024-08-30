@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-08-30 15:07 | [#1143 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence) | MEDIUM | 3 | **2** |
 | 2024-08-26 15:18 | [#3 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters) | MEDIUM | 10 | **3** |
 | 2024-08-24 14:51 | [#718 最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray) | MEDIUM | 1 | 1 |
 | 2024-08-24 10:22 | [#77 组合](https://leetcode.cn/problems/combinations) | MEDIUM | 6 | **2** |
@@ -143,7 +144,6 @@
 | 2024-01-03 09:18 | [#15 三数之和](https://leetcode.cn/problems/3sum) | MEDIUM | 7 | **3** |
 | 2023-12-29 15:53 | [#230 二叉搜索树中第 K 小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst) | MEDIUM | 1 | 1 |
 | 2023-12-29 15:01 | [#78 子集](https://leetcode.cn/problems/subsets) | MEDIUM | 2 | 1 |
-| 2023-12-26 22:24 | [#1143 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence) | MEDIUM | 2 | 1 |
 | 2023-12-24 12:30 | [#567 字符串的排列](https://leetcode.cn/problems/permutation-in-string) | MEDIUM | 3 | 1 |
 | 2023-12-23 10:30 | [#1962 移除石子使总数最小](https://leetcode.cn/problems/remove-stones-to-minimize-the-total) | MEDIUM | 1 | 1 |
 | 2023-12-20 20:08 | [#94 二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal) | EASY | 1 | 1 |
