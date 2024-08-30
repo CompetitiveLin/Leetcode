@@ -128,3 +128,60 @@ func consumer(i int, ch chan int) {
 }
 ```
 
+
+
+## 手写协程池
+
+```go
+package main
+
+import (
+	"fmt"
+	"time"
+)
+
+type Task struct {
+	f func()
+}
+
+func (t *Task) Execute() {
+	t.f()
+}
+
+type Pool struct {
+	tasks chan *Task
+	entry chan *Task
+	nums  int
+}
+
+func (p *Pool) Work(id int) {
+	for task := range p.tasks {
+		task.Execute()
+		fmt.Println("excute id: ", id)
+		time.Sleep(2 * time.Second)
+	}
+}
+
+func (p *Pool) Run() {
+	for i := 1; i <= p.nums; i++ {
+		go p.Work(i)
+	}
+	for task := range p.entry {
+		p.tasks <- task
+	}
+}
+
+func main() {
+	task := &Task{f: func() {
+		fmt.Println("Execute!", time.Now())
+	}}
+	p := &Pool{nums: 3, entry: make(chan *Task), tasks: make(chan *Task)}
+	go func() {
+		for {
+			p.entry <- task
+		}
+	}()
+	p.Run()
+}
+```
+
