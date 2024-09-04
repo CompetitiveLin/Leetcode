@@ -26,6 +26,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-09-04 16:18 | [#105 从前序与中序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | MEDIUM | 1 | 1 |
+| 2024-09-04 16:08 | [#106 从中序与后序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | MEDIUM | 1 | 1 |
+| 2024-09-04 15:06 | [#42 接雨水](https://leetcode.cn/problems/trapping-rain-water) | HARD | 3 | **2** |
 | 2024-08-30 15:07 | [#1143 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence) | MEDIUM | 3 | **2** |
 | 2024-08-26 15:18 | [#3 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters) | MEDIUM | 10 | **3** |
 | 2024-08-24 14:51 | [#718 最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray) | MEDIUM | 1 | 1 |
@@ -219,7 +222,6 @@
 | 2023-01-30 19:28 | [#1669 合并两个链表](https://leetcode.cn/problems/merge-in-between-linked-lists) | MEDIUM | 2 | 1 |
 | 2023-01-28 14:37 | [#1664 生成平衡数组的方案数](https://leetcode.cn/problems/ways-to-make-a-fair-array) | MEDIUM | 2 | 1 |
 | 2023-01-27 20:38 | [#503 下一个更大元素 II](https://leetcode.cn/problems/next-greater-element-ii) | MEDIUM | 3 | 1 |
-| 2023-01-27 19:53 | [#42 接雨水](https://leetcode.cn/problems/trapping-rain-water) | HARD | 2 | 1 |
 | 2023-01-26 18:25 | [#1663 具有给定数值的最小字符串](https://leetcode.cn/problems/smallest-string-with-a-given-numeric-value) | MEDIUM | 2 | 1 |
 | 2023-01-23 22:32 | [#199 二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view) | MEDIUM | 2 | 1 |
 | 2023-01-16 22:39 | [#1813 句子相似性 III](https://leetcode.cn/problems/sentence-similarity-iii) | MEDIUM | 3 | 1 |
