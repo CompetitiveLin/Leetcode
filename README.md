@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-09-05 09:08 | [#15 三数之和](https://leetcode.cn/problems/3sum) | MEDIUM | 8 | **4** |
 | 2024-09-04 16:18 | [#105 从前序与中序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | MEDIUM | 1 | 1 |
 | 2024-09-04 16:08 | [#106 从中序与后序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | MEDIUM | 1 | 1 |
 | 2024-09-04 15:06 | [#42 接雨水](https://leetcode.cn/problems/trapping-rain-water) | HARD | 3 | **2** |
@@ -144,7 +145,6 @@
 | 2024-01-22 11:10 | [#670 最大交换](https://leetcode.cn/problems/maximum-swap) | MEDIUM | 13 | **2** |
 | 2024-01-20 15:18 | [#82 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii) | MEDIUM | 3 | **2** |
 | 2024-01-20 13:17 | [#373 查找和最小的 K 对数字](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums) | MEDIUM | 3 | **2** |
-| 2024-01-03 09:18 | [#15 三数之和](https://leetcode.cn/problems/3sum) | MEDIUM | 7 | **3** |
 | 2023-12-29 15:53 | [#230 二叉搜索树中第 K 小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst) | MEDIUM | 1 | 1 |
 | 2023-12-29 15:01 | [#78 子集](https://leetcode.cn/problems/subsets) | MEDIUM | 2 | 1 |
 | 2023-12-24 12:30 | [#567 字符串的排列](https://leetcode.cn/problems/permutation-in-string) | MEDIUM | 3 | 1 |
