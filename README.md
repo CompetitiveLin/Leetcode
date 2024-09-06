@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-09-06 11:31 | [#18 四数之和](https://leetcode.cn/problems/4sum) | MEDIUM | 5 | **2** |
 | 2024-09-05 09:08 | [#15 三数之和](https://leetcode.cn/problems/3sum) | MEDIUM | 8 | **4** |
 | 2024-09-04 16:18 | [#105 从前序与中序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | MEDIUM | 1 | 1 |
 | 2024-09-04 16:08 | [#106 从中序与后序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | MEDIUM | 1 | 1 |
@@ -262,7 +263,6 @@
 | 2022-11-24 15:03 | [#795 区间子数组个数](https://leetcode.cn/problems/number-of-subarrays-with-bounded-maximum) | MEDIUM | 3 | 1 |
 | 2022-11-23 21:31 | [#878 第 N 个神奇数字](https://leetcode.cn/problems/nth-magical-number) | HARD | 9 | **2** |
 | 2022-11-23 17:30 | [#1742 盒子中小球的最大数量](https://leetcode.cn/problems/maximum-number-of-balls-in-a-box) | EASY | 1 | 1 |
-| 2022-11-21 20:32 | [#18 四数之和](https://leetcode.cn/problems/4sum) | MEDIUM | 4 | 1 |
 | 2022-11-21 19:47 | [#16 最接近的三数之和](https://leetcode.cn/problems/3sum-closest) | MEDIUM | 2 | 1 |
 | 2022-11-21 18:17 | [#1 两数之和](https://leetcode.cn/problems/two-sum) | EASY | 11 | **2** |
 | 2022-11-21 14:35 | [#692 前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words) | MEDIUM | 2 | 1 |
