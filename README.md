@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-09-13 19:45 | [#236 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree) | MEDIUM | 4 | **3** |
 | 2024-09-06 11:31 | [#18 四数之和](https://leetcode.cn/problems/4sum) | MEDIUM | 5 | **2** |
 | 2024-09-05 09:08 | [#15 三数之和](https://leetcode.cn/problems/3sum) | MEDIUM | 8 | **4** |
 | 2024-09-04 16:18 | [#105 从前序与中序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | MEDIUM | 1 | 1 |
@@ -136,7 +137,6 @@
 | 2024-03-15 14:19 | [#2487 从链表中移除节点](https://leetcode.cn/problems/remove-nodes-from-linked-list) | MEDIUM | 1 | 1 |
 | 2024-03-12 18:00 | [#1261 在受污染的二叉树中查找元素](https://leetcode.cn/problems/find-elements-in-a-contaminated-binary-tree) | MEDIUM | 1 | 1 |
 | 2024-03-10 10:17 | [#299 猜数字游戏](https://leetcode.cn/problems/bulls-and-cows) | MEDIUM | 2 | 1 |
-| 2024-02-09 10:42 | [#236 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree) | MEDIUM | 3 | **2** |
 | 2024-01-26 15:56 | [#91 解码方法](https://leetcode.cn/problems/decode-ways) | MEDIUM | 2 | 1 |
 | 2024-01-26 10:13 | [#235 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree) | MEDIUM | 3 | 1 |
 | 2024-01-24 11:25 | [#274 H 指数](https://leetcode.cn/problems/h-index) | MEDIUM | 3 | 1 |
