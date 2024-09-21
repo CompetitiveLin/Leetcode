@@ -26,6 +26,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-09-21 19:34 | [#124 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum) | HARD | 1 | 1 |
+| 2024-09-21 15:54 | [#25 K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group) | HARD | 2 | **2** |
 | 2024-09-13 19:45 | [#236 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree) | MEDIUM | 4 | **3** |
 | 2024-09-06 11:31 | [#18 四数之和](https://leetcode.cn/problems/4sum) | MEDIUM | 5 | **2** |
 | 2024-09-05 09:08 | [#15 三数之和](https://leetcode.cn/problems/3sum) | MEDIUM | 8 | **4** |
@@ -142,7 +144,6 @@
 | 2024-01-24 11:25 | [#274 H 指数](https://leetcode.cn/problems/h-index) | MEDIUM | 3 | 1 |
 | 2024-01-23 22:15 | [#26 删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array) | EASY | 2 | 1 |
 | 2024-01-23 22:05 | [#80 删除有序数组中的重复项 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 1 | 1 |
-| 2024-01-23 16:34 | [#25 K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group) | HARD | 1 | 1 |
 | 2024-01-22 11:10 | [#670 最大交换](https://leetcode.cn/problems/maximum-swap) | MEDIUM | 13 | **2** |
 | 2024-01-20 15:18 | [#82 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii) | MEDIUM | 3 | **2** |
 | 2024-01-20 13:17 | [#373 查找和最小的 K 对数字](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums) | MEDIUM | 3 | **2** |
