@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-09-23 13:50 | [#1002 查找共用字符](https://leetcode.cn/problems/find-common-characters) | EASY | 1 | 1 |
 | 2024-09-21 19:34 | [#124 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum) | HARD | 1 | 1 |
 | 2024-09-21 15:54 | [#25 K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group) | HARD | 2 | **2** |
 | 2024-09-13 19:45 | [#236 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree) | MEDIUM | 4 | **3** |
