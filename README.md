@@ -26,6 +26,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2024-10-08 12:53 | [#463 岛屿的周长](https://leetcode.cn/problems/island-perimeter) | EASY | 1 | 1 |
 | 2024-09-26 15:39 | [#76 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring) | HARD | 1 | 1 |
 | 2024-09-23 13:50 | [#1002 查找共用字符](https://leetcode.cn/problems/find-common-characters) | EASY | 1 | 1 |
 | 2024-09-21 19:34 | [#124 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum) | HARD | 1 | 1 |
